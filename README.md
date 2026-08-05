@@ -1,7 +1,7 @@
 # AI-Powered TÜBİTAK Project Planning Assistant
 
 <p align="center">
-  <img src="images/banner.png" width="100%">
+  <img src="imagine/banner.png" width="100%">
 </p>
 
 <p align="center">

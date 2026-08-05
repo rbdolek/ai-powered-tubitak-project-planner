@@ -5,56 +5,74 @@
 </p>
 
 <p align="center">
-  <strong>Graduation Project • Artificial Intelligence • Django • LSTM • OpenAI • Project Planning</strong>
+  <strong>Computer Engineering Graduation Project</strong><br>
+  Artificial Intelligence • Django • LSTM • OpenAI • Project Planning • NLP
 </p>
 
 ---
 
 # Executive Summary
 
-The AI-Powered TÜBİTAK Project Planning Assistant is an intelligent web platform developed as a Computer Engineering graduation project.
+The **AI-Powered TÜBİTAK Project Planning Assistant** is a web-based intelligent planning platform developed as my Computer Engineering graduation project.
 
-The system assists researchers and university students in preparing long-term project plans for TÜBİTAK research programs. Based on the selected funding program, project topic, and official project duration, the platform automatically generates a personalized monthly project roadmap.
+The system assists researchers and university students in planning research projects for various TÜBİTAK funding programs. Based on the selected funding program, project topic, and official project duration, the platform automatically generates personalized monthly research plans.
 
-Unlike traditional planning tools, the system supports two different artificial intelligence approaches:
+To provide flexibility and compare different artificial intelligence approaches, the system supports two independent planning engines:
 
-- OpenAI-based intelligent planning
-- A custom-trained LSTM sequence generation model
+- **OpenAI-based Project Planning**
+- **Custom-trained LSTM-based Project Planning**
 
-The generated plans can be viewed as a project calendar, downloaded as PDF reports, and managed through a personalized user profile.
+The generated plans can be viewed through an interactive chat interface, managed within a personal calendar, exported as PDF documents, and stored inside the user's profile for future reference.
 
 ---
 
 # Project Motivation
 
-Preparing a TÜBİTAK research project requires careful planning over several months.
+Preparing research projects for TÜBİTAK programs is a complex process that requires careful planning over several months.
 
-Researchers often struggle with:
+Researchers often face challenges such as:
 
-- Creating realistic project timelines
-- Dividing work into monthly milestones
-- Managing project documentation
-- Tracking progress
-- Organizing research activities
+- Defining realistic project milestones
+- Organizing long-term research activities
+- Managing project schedules
+- Tracking completed tasks
+- Preparing structured project roadmaps
 
-This project aims to automate this planning process using artificial intelligence.
+This project aims to simplify this process by combining artificial intelligence with automated project planning.
+
+---
+
+# Project Objectives
+
+The primary objectives of this project are:
+
+- Generate personalized project plans using Artificial Intelligence.
+- Support multiple TÜBİTAK funding programs.
+- Automatically create monthly research schedules.
+- Allow users to choose between different AI models.
+- Store previous project plans.
+- Provide calendar-based task visualization.
+- Export generated plans as PDF documents.
+- Create a reusable intelligent planning platform for future research projects.
 
 ---
 
 # Key Features
 
-- AI-powered project planning
-- TÜBİTAK program selection
-- Automatic timeline generation
-- Personalized monthly work plans
-- OpenAI integration
-- Custom-trained LSTM model
-- User authentication
-- Project history
-- Chat history
-- Calendar integration
-- PDF export
-- User profile management
+- User Registration
+- User Authentication
+- AI-powered Project Planning
+- OpenAI Integration
+- Custom-trained LSTM Model
+- AI Model Selection
+- Personalized Monthly Project Plans
+- TÜBİTAK Program Selection
+- Interactive AI Chat
+- Chat History
+- Calendar Integration
+- User Profile Management
+- Project History
+- PDF Report Generation
 
 ---
 
@@ -74,16 +92,16 @@ Choose AI Model
 (OpenAI / LSTM)
       │
       ▼
-AI Generates Project Plan
+Generate Project Plan
       │
       ▼
-Monthly Timeline
+Monthly Schedule
       │
       ▼
 Calendar Integration
       │
       ▼
-Project Storage
+Save Project
       │
       ▼
 PDF Export
@@ -93,67 +111,53 @@ PDF Export
 
 # Artificial Intelligence Models
 
-## OpenAI Model
+## OpenAI Planning Engine
 
-The OpenAI model generates project plans based on the selected TÜBİTAK funding program and user-defined project topic.
+The OpenAI model generates intelligent project plans by analyzing:
 
-This model provides intelligent planning using large language model capabilities.
+- Selected TÜBİTAK funding program
+- Project topic
+- Program duration
+
+The generated roadmap is adapted to the official duration of the selected funding program.
 
 ---
 
-## Custom LSTM Model
+## Custom LSTM Planning Engine
 
-A custom LSTM-based sequence generation model was developed and trained as part of this project.
+One of the main contributions of this project is the development of a custom LSTM-based sequence generation model.
 
-Training data was prepared from project planning examples, allowing the model to learn project planning structures and generate planning recommendations without relying solely on external AI services.
+Instead of relying exclusively on external AI services, a dedicated LSTM model was trained using project-planning datasets prepared during the development process.
 
-The LSTM model was integrated directly into the Django application and can be selected as an alternative planning engine.
+The trained model was integrated into the Django application and can independently generate structured project plans based on user inputs.
+
+This enables the platform to provide AI-generated planning even without relying solely on cloud-based language models.
 
 ---
 
 # Project Architecture
 
 ```text
-                    User
-                      │
-                      ▼
-             Django Web Application
-                      │
-      ┌───────────────┴───────────────┐
-      │                               │
-      ▼                               ▼
-OpenAI API                  Custom LSTM Model
-      │                               │
-      └───────────────┬───────────────┘
-                      ▼
-            Project Planning Engine
-                      ▼
-              Calendar Generator
-                      ▼
-            PDF Report Generator
-                      ▼
-             SQLite Database
+                        User
+                          │
+                          ▼
+                 Django Web Application
+                          │
+          ┌───────────────┴───────────────┐
+          │                               │
+          ▼                               ▼
+    OpenAI API                 Custom LSTM Model
+          │                               │
+          └───────────────┬───────────────┘
+                          ▼
+               AI Planning Engine
+                          ▼
+                 Calendar Generator
+                          ▼
+                  PDF Report Generator
+                          ▼
+                  SQLite Database
 ```
-
----
-
-# Screenshots
-
-## AI Chat Interface
-
-<img src="images/chat-interface.png" width="900">
-
----
-
-## Project Calendar
-
-<img src="images/calendar.png" width="900">
-
----
-
-## User Profile
-
-<img src="images/profile.png" width="900">
 
 ---
 
@@ -161,54 +165,69 @@ OpenAI API                  Custom LSTM Model
 
 | Category | Technology |
 |-----------|------------|
+| Programming Language | Python |
 | Backend | Django |
 | API | Django REST Framework |
-| AI | TensorFlow |
+| Artificial Intelligence | TensorFlow |
 | Deep Learning | LSTM |
-| NLP | NLTK |
-| Dataset Processing | Pandas |
-| Numerical Computing | NumPy |
+| Natural Language Processing | NLTK |
 | Machine Learning | Scikit-Learn |
+| Data Processing | Pandas |
+| Numerical Computing | NumPy |
 | Visualization | Matplotlib |
+| AI Service | OpenAI API |
 | Database | SQLite |
 | Report Generation | ReportLab |
-| AI API | OpenAI |
-| Frontend | HTML, CSS, JavaScript |
+| Spreadsheet Processing | OpenPyXL |
+| Frontend | HTML • CSS • JavaScript |
 
 ---
 
 # Dataset
 
-The project includes custom datasets prepared for training the LSTM sequence generation model.
+The project includes custom datasets prepared specifically for project planning.
 
-Examples include:
+Datasets include:
 
-- Project planning data
+- Project planning examples
 - Question-answer pairs
 - Extended planning datasets
 
-These datasets were preprocessed before model training.
+The datasets were preprocessed before model training and used for LSTM sequence generation.
 
 ---
 
 # Model Training
 
-The project includes multiple experimental training pipelines including:
+The project contains multiple AI training pipelines developed during experimentation.
 
-- LSTM
-- Sequence-to-Sequence LSTM
-- T5 Transformer experiments
+Implemented approaches include:
 
-Model checkpoints and training logs were generated throughout the development process.
+- LSTM Sequence Generation
+- Seq2Seq LSTM
+- T5 Transformer Experiments
+
+The training process includes:
+
+- Dataset preprocessing
+- Tokenization
+- Sequence generation
+- Model checkpoint creation
+- Training logs
+- Model evaluation
+- Django integration
+
+The custom LSTM model was successfully integrated into the application and is capable of generating project planning outputs.
 
 ---
 
 # Main Modules
 
 - User Management
+- Authentication
 - AI Planning Engine
-- LSTM Training Module
 - OpenAI Integration
+- LSTM Model
 - Calendar Management
 - Project Repository
 - Chat History
@@ -217,40 +236,80 @@ Model checkpoints and training logs were generated throughout the development pr
 
 ---
 
+# Hardware & Software
+
+Although the platform primarily focuses on Artificial Intelligence and Web Technologies, the project demonstrates the integration of:
+
+- AI-powered planning
+- Machine Learning
+- Natural Language Processing
+- Full Stack Development
+- Database Management
+- Document Generation
+
+within a single software platform.
+
+---
+
+# Results
+
+The developed platform successfully generates personalized research project plans based on:
+
+- Selected TÜBİTAK funding program
+- Project topic
+- Official project duration
+- Selected AI model
+
+Users can compare planning outputs generated by both the OpenAI model and the custom-trained LSTM model within the same application.
+
+The generated plans can be:
+
+- Saved
+- Reviewed later
+- Exported as PDF
+- Displayed in the integrated calendar
+- Accessed through the user's profile
+
+---
+
 # Skills Demonstrated
 
 - Artificial Intelligence
+- Machine Learning
 - Deep Learning
-- LSTM
+- LSTM Networks
 - Natural Language Processing
-- Django
+- Django Development
 - REST API Development
 - Python
 - TensorFlow
-- Database Design
 - Software Architecture
+- Database Design
+- User Authentication
 - Full Stack Development
-- Machine Learning
+- Prompt Engineering
+- AI Integration
 
 ---
 
 # Future Improvements
 
-Potential future enhancements include:
+Possible future enhancements include:
 
 - Transformer-based planning models
 - Retrieval-Augmented Generation (RAG)
 - Multi-language support
-- Team collaboration
-- Mobile application
 - Cloud deployment
+- Mobile application
+- Team collaboration features
+- Reinforcement learning for adaptive planning
 
 ---
 
 # Repository Structure
 
 ```text
-ai-powered-tubitak-project-planner
+ai-powered-tubitak-project-planner/
 
 │
 ├── agent_ai/
@@ -265,8 +324,62 @@ ai-powered-tubitak-project-planner
 ├── nltk_data/
 ├── manage.py
 ├── requirements.txt
+├── db.sqlite3
 └── README.md
 ```
+
+---
+
+# Project Status
+
+**Status:** Completed
+
+The current version includes:
+
+- Functional Django backend
+- User authentication
+- OpenAI integration
+- Custom-trained LSTM model
+- AI model selection
+- Calendar integration
+- Project history
+- Chat history
+- PDF generation
+- SQLite database
+
+The LSTM model has been successfully trained, integrated, and tested within the application.
+
+---
+
+# Screenshots
+
+## Home Page
+
+<img src="images/home.png" width="900">
+
+---
+
+## AI Chat Interface
+
+<img src="images/chat.png" width="900">
+
+---
+
+## Calendar
+
+<img src="images/calendar.png" width="900">
+
+---
+
+## User Profile
+
+<img src="images/profile.png" width="900">
+
+---
+
+## PDF Report
+
+<img src="images/pdf.png" width="900">
 
 ---
 
@@ -274,4 +387,6 @@ ai-powered-tubitak-project-planner
 
 This repository has been prepared for educational and portfolio purposes.
 
-Sensitive API keys, configuration files, and private credentials have been removed before publication.
+Sensitive information including API keys, configuration files, credentials, and private settings has been removed before publication.
+
+The project demonstrates the architecture, implementation, and integration of an AI-powered research planning platform while preserving security and confidentiality.

@@ -10,6 +10,21 @@
 </p>
 
 ---
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+
+![Django](https://img.shields.io/badge/Django-5.0-green?style=for-the-badge&logo=django)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)
+
+![LSTM](https://img.shields.io/badge/Deep%20Learning-LSTM-red?style=for-the-badge)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-API-black?style=for-the-badge&logo=openai)
+
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+
+</p>
 
 # Executive Summary
 
@@ -22,7 +37,7 @@ To provide flexibility and compare different artificial intelligence approaches,
 - **OpenAI-based Project Planning**
 - **Custom-trained LSTM-based Project Planning**
 
-The generated plans can be viewed through an interactive chat interface, managed within a personal calendar, exported as PDF documents, and stored inside the user's profile for future reference.
+The generated plans can be viewed through an interactive chat interface, managed within a personal calendar, exported as DOC documents, and stored inside the user's profile for future reference.
 
 ---
 
@@ -52,7 +67,7 @@ The primary objectives of this project are:
 - Allow users to choose between different AI models.
 - Store previous project plans.
 - Provide calendar-based task visualization.
-- Export generated plans as PDF documents.
+- Export generated plans as DOC documents.
 - Create a reusable intelligent planning platform for future research projects.
 
 ---
@@ -72,7 +87,7 @@ The primary objectives of this project are:
 - Calendar Integration
 - User Profile Management
 - Project History
-- PDF Report Generation
+- DOC Report Generation
 
 ---
 
@@ -104,7 +119,7 @@ Calendar Integration
 Save Project
       │
       ▼
-PDF Export
+DOC Export
 ```
 
 ---
@@ -154,7 +169,7 @@ This enables the platform to provide AI-generated planning even without relying 
                           ▼
                  Calendar Generator
                           ▼
-                  PDF Report Generator
+                  DOC Report Generator
                           ▼
                   SQLite Database
 ```
@@ -179,7 +194,7 @@ This enables the platform to provide AI-generated planning even without relying 
 | Database | SQLite |
 | Report Generation | ReportLab |
 | Spreadsheet Processing | OpenPyXL |
-| Frontend | HTML • CSS • JavaScript |
+| Frontend | React.js, HTML, CSS, JavaScript |
 
 ---
 
@@ -231,7 +246,7 @@ The custom LSTM model was successfully integrated into the application and is ca
 - Calendar Management
 - Project Repository
 - Chat History
-- PDF Generator
+- DOC Report Generation
 - User Profiles
 
 ---
@@ -266,7 +281,7 @@ The generated plans can be:
 
 - Saved
 - Reviewed later
-- Exported as PDF
+- Exported as DOC
 - Displayed in the integrated calendar
 - Accessed through the user's profile
 
@@ -344,7 +359,7 @@ The current version includes:
 - Calendar integration
 - Project history
 - Chat history
-- PDF generation
+- DOC Report Generation
 - SQLite database
 
 The LSTM model has been successfully trained, integrated, and tested within the application.
@@ -403,6 +418,13 @@ The custom-trained LSTM model generates a complete project roadmap based on:
 
 ---
 
+## 📋 Generated 12-Month Project Plan
+
+After analyzing the selected TÜBİTAK funding program and project topic, the AI automatically generates a structured month-by-month project roadmap.
+
+<p align="center">
+  <img src="images/generated-plan.png" width="850">
+</p>
 ## 📑 DOC Report Generation
 
 Users can export the generated project plan as a Microsoft Word document.

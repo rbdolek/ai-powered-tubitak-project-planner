@@ -403,16 +403,6 @@ The custom-trained LSTM model generates a complete project roadmap based on:
 
 ---
 
-## 📄 Generated Project Plan
-
-The AI automatically creates a detailed month-by-month project plan.
-
-<p align="center">
-  <img src="imagine/generated-plan.png" width="850">
-</p>
-
----
-
 ## 📑 DOC Report Generation
 
 Users can export the generated project plan as a Microsoft Word document.
@@ -428,7 +418,7 @@ Users can export the generated project plan as a Microsoft Word document.
 The generated milestones are automatically transferred to an interactive calendar.
 
 <p align="center">
-  <img src="imagine/calendar.png" width="850">
+  <img src="imagine/calender.png" width="850">
 </p>
 
 ---
@@ -443,7 +433,7 @@ Users can:
 - Re-download generated documents
 
 <p align="center">
-  <img src="images/profile.png" width="850">
+  <img src="imagine/profile.png" width="850">
 </p>
 
 # Disclaimer

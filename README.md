@@ -418,16 +418,11 @@ The custom-trained LSTM model generates a complete project roadmap based on:
 
 ---
 
+---
+
 ## 📋 Generated 12-Month Project Plan
 
 After analyzing the selected TÜBİTAK funding program and project topic, the AI automatically generates a structured month-by-month project roadmap.
-
-<p align="center">
-  <img src="images/generated-plan.png" width="850">
-</p>
-## 📑 DOC Report Generation
-
-Users can export the generated project plan as a Microsoft Word document.
 
 <p align="center">
   <img src="images/generated-plan.png" width="850">

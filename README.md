@@ -358,7 +358,7 @@ The LSTM model has been successfully trained, integrated, and tested within the 
 Secure login interface for registered users.
 
 <p align="center">
-  <img src="images/login.png" width="850">
+  <img src="imagine/login.png" width="850">
 </p>
 
 ---
@@ -368,7 +368,7 @@ Secure login interface for registered users.
 New users can create an account before accessing the AI assistant.
 
 <p align="center">
-  <img src="images/register.png" width="850">
+  <img src="imagine/register.png" width="850">
 </p>
 
 ---
@@ -384,7 +384,7 @@ The dashboard allows users to:
 - Navigate to Calendar and Profile pages
 
 <p align="center">
-  <img src="images/dashboard.png" width="850">
+  <img src="imagine/dashboard.png" width="850">
 </p>
 
 ---
@@ -398,7 +398,7 @@ The custom-trained LSTM model generates a complete project roadmap based on:
 - User's research topic
 
 <p align="center">
-  <img src="images/lstm-chat.png" width="850">
+  <img src="imagine/lstm-chat.png" width="850">
 </p>
 
 ---
@@ -408,7 +408,7 @@ The custom-trained LSTM model generates a complete project roadmap based on:
 The AI automatically creates a detailed month-by-month project plan.
 
 <p align="center">
-  <img src="images/generated-plan.png" width="850">
+  <img src="imagine/generated-plan.png" width="850">
 </p>
 
 ---
@@ -418,7 +418,7 @@ The AI automatically creates a detailed month-by-month project plan.
 Users can export the generated project plan as a Microsoft Word document.
 
 <p align="center">
-  <img src="images/generated-doc.png" width="850">
+  <img src="imagine/generated-doc.png" width="850">
 </p>
 
 ---
@@ -428,7 +428,7 @@ Users can export the generated project plan as a Microsoft Word document.
 The generated milestones are automatically transferred to an interactive calendar.
 
 <p align="center">
-  <img src="images/calendar.png" width="850">
+  <img src="imagine/calendar.png" width="850">
 </p>
 
 ---

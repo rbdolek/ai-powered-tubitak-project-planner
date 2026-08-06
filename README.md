@@ -351,37 +351,100 @@ The LSTM model has been successfully trained, integrated, and tested within the 
 
 ---
 
-# Screenshots
+# 📸 Application Screenshots
 
-## Home Page
+## 🔐 Login Page
 
-<img src="images/home.png" width="900">
+Secure login interface for registered users.
 
----
-
-## AI Chat Interface
-
-<img src="images/chat.png" width="900">
+<p align="center">
+  <img src="images/login.png" width="850">
+</p>
 
 ---
 
-## Calendar
+## 📝 Registration Page
 
-<img src="images/calendar.png" width="900">
+New users can create an account before accessing the AI assistant.
 
----
-
-## User Profile
-
-<img src="images/profile.png" width="900">
+<p align="center">
+  <img src="images/register.png" width="850">
+</p>
 
 ---
 
-## PDF Report
+## 🏠 Main Dashboard
 
-<img src="images/pdf.png" width="900">
+The dashboard allows users to:
+
+- Select a TÜBİTAK funding program
+- Choose between OpenAI and the custom-trained LSTM model
+- Start a new AI conversation
+- Access previous conversations
+- Navigate to Calendar and Profile pages
+
+<p align="center">
+  <img src="images/dashboard.png" width="850">
+</p>
 
 ---
+
+## 🤖 LSTM AI Project Planning
+
+The custom-trained LSTM model generates a complete project roadmap based on:
+
+- Selected TÜBİTAK program
+- Project duration
+- User's research topic
+
+<p align="center">
+  <img src="images/lstm-chat.png" width="850">
+</p>
+
+---
+
+## 📄 Generated Project Plan
+
+The AI automatically creates a detailed month-by-month project plan.
+
+<p align="center">
+  <img src="images/generated-plan.png" width="850">
+</p>
+
+---
+
+## 📑 DOC Report Generation
+
+Users can export the generated project plan as a Microsoft Word document.
+
+<p align="center">
+  <img src="images/generated-doc.png" width="850">
+</p>
+
+---
+
+## 📅 Calendar Integration
+
+The generated milestones are automatically transferred to an interactive calendar.
+
+<p align="center">
+  <img src="images/calendar.png" width="850">
+</p>
+
+---
+
+## 👤 User Profile
+
+Users can:
+
+- Update profile information
+- Manage personal details
+- Access previously generated project reports
+- Re-download generated documents
+
+<p align="center">
+  <img src="images/profile.png" width="850">
+</p>
 
 # Disclaimer
 

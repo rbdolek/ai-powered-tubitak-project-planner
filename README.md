@@ -1,7 +1,7 @@
 # AI-Powered TÜBİTAK Project Planning Assistant
 
 <p align="center">
-  <img src="imagine/banner.png" width="100%">
+  <img src="images/banner.png" width="100%">
 </p>
 
 <p align="center">
@@ -358,7 +358,7 @@ The LSTM model has been successfully trained, integrated, and tested within the 
 Secure login interface for registered users.
 
 <p align="center">
-  <img src="imagine/login.png" width="850">
+  <img src="images/login.png" width="850">
 </p>
 
 ---
@@ -368,7 +368,7 @@ Secure login interface for registered users.
 New users can create an account before accessing the AI assistant.
 
 <p align="center">
-  <img src="imagine/register.png" width="850">
+  <img src="images/register.png" width="850">
 </p>
 
 ---
@@ -384,7 +384,7 @@ The dashboard allows users to:
 - Navigate to Calendar and Profile pages
 
 <p align="center">
-  <img src="imagine/dashboard.png" width="850">
+  <img src="images/dashboard.png" width="850">
 </p>
 
 ---
@@ -398,7 +398,7 @@ The custom-trained LSTM model generates a complete project roadmap based on:
 - User's research topic
 
 <p align="center">
-  <img src="imagine/lstm-chat.png" width="850">
+  <img src="images/lstm-chat.png" width="850">
 </p>
 
 ---
@@ -408,7 +408,7 @@ The custom-trained LSTM model generates a complete project roadmap based on:
 Users can export the generated project plan as a Microsoft Word document.
 
 <p align="center">
-  <img src="imagine/generated-doc.png" width="850">
+  <img src="images/generated-doc.png" width="850">
 </p>
 
 ---
@@ -418,7 +418,7 @@ Users can export the generated project plan as a Microsoft Word document.
 The generated milestones are automatically transferred to an interactive calendar.
 
 <p align="center">
-  <img src="imagine/calender.png" width="850">
+  <img src="images/calender.png" width="850">
 </p>
 
 ---
@@ -433,7 +433,7 @@ Users can:
 - Re-download generated documents
 
 <p align="center">
-  <img src="imagine/profile.png" width="850">
+  <img src="images/profile.png" width="850">
 </p>
 
 # Disclaimer

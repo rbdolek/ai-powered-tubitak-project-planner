@@ -1,0 +1,275 @@
+2025-06-16 21:06:53,122 - GPT_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+sqlite3.OperationalError: no such table: projects_projectplan
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\agent_ai2\gpt_trainer.py", line 89, in prepare_data
+    plans_df = pd.read_sql_query(query, conn)
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql '
+            SELECT p.title as query, p.content as plan_text
+            FROM projects_projectplan p
+            WHERE p.content IS NOT NULL AND p.content != ''
+            ': no such table: projects_projectplan
+
+2025-06-16 21:06:53,135 - GPT_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+sqlite3.OperationalError: no such table: projects_projectplan
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\agent_ai2\gpt_trainer.py", line 363, in run_training_pipeline
+    self.prepare_data()
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\agent_ai2\gpt_trainer.py", line 89, in prepare_data
+    plans_df = pd.read_sql_query(query, conn)
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 526, in read_sql_query
+    return pandas_sql.read_query(
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\Rabia D�lek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql '
+            SELECT p.title as query, p.content as plan_text
+            FROM projects_projectplan p
+            WHERE p.content IS NOT NULL AND p.content != ''
+            ': no such table: projects_projectplan
+
+2025-06-16 21:12:35,493 - GPT_Training - INFO - GPT Eğitimi Başlatılıyor: model=gpt2, epochs=4
+2025-06-16 21:12:35,493 - GPT_Trainer - INFO - GPT Trainer başlatıldı: gpt2
+2025-06-16 21:12:35,493 - GPT_Trainer - INFO - Eğitim verileri hazırlanıyor...
+2025-06-16 21:12:35,493 - GPT_Trainer - INFO - Veritabanından plan verilerini çekiyorum
+2025-06-16 21:12:35,808 - GPT_Trainer - INFO - Veritabanı bağlantısı başarılı
+2025-06-16 21:12:35,866 - GPT_Trainer - INFO - 0 adet plan verisi bulundu
+2025-06-16 21:12:35,866 - GPT_Trainer - INFO - Veriler CSV olarak kaydedildi: agent_ai2/gpt_model_data\all_plans.csv
+2025-06-16 21:12:35,866 - GPT_Trainer - ERROR - Veri hazırlama hatası: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+2025-06-16 21:12:35,904 - GPT_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\gpt_trainer.py", line 133, in prepare_data
+    train_data, test_data = train_test_split(formatted_data, test_size=0.2, random_state=42)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sklearn\utils\_param_validation.py", line 216, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sklearn\model_selection\_split.py", line 2851, in train_test_split
+    n_train, n_test = _validate_shuffle_split(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sklearn\model_selection\_split.py", line 2481, in _validate_shuffle_split
+    raise ValueError(
+ValueError: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+
+2025-06-16 21:12:35,904 - GPT_Trainer - ERROR - Eğitim süreci hatası: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+2025-06-16 21:12:35,904 - GPT_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\gpt_trainer.py", line 386, in run_training_pipeline
+    self.prepare_data()
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\gpt_trainer.py", line 133, in prepare_data
+    train_data, test_data = train_test_split(formatted_data, test_size=0.2, random_state=42)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sklearn\utils\_param_validation.py", line 216, in wrapper
+    return func(*args, **kwargs)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sklearn\model_selection\_split.py", line 2851, in train_test_split
+    n_train, n_test = _validate_shuffle_split(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sklearn\model_selection\_split.py", line 2481, in _validate_shuffle_split
+    raise ValueError(
+ValueError: With n_samples=0, test_size=0.2 and train_size=None, the resulting train set will be empty. Adjust any of the aforementioned parameters.
+
+2025-06-16 21:12:35,904 - GPT_Training - ERROR - Eğitim süreci başarısız oldu.
+2025-06-16 21:24:53,391 - GPT_Training - INFO - GPT Eğitimi Başlatılıyor: model=gpt2, epochs=4
+2025-06-16 21:24:53,391 - GPT_Trainer - INFO - GPT Trainer başlatıldı: gpt2
+2025-06-16 21:24:53,391 - GPT_Trainer - INFO - Eğitim verileri hazırlanıyor...
+2025-06-16 21:24:53,391 - GPT_Trainer - INFO - Veritabanından plan verilerini çekiyorum
+2025-06-16 21:24:53,490 - GPT_Trainer - INFO - Veritabanı bağlantısı başarılı
+2025-06-16 21:24:53,548 - GPT_Trainer - WARNING - Gerekli tablolar bulunamadı. Test için sahte veriler oluşturuluyor.
+2025-06-16 21:24:53,548 - GPT_Trainer - INFO - Test için örnek veri oluşturuluyor...
+2025-06-16 21:24:53,557 - GPT_Trainer - INFO - Örnek eğitim verileri hazırlandı: {'train': 4, 'test': 1, 'total': 5}
+2025-06-16 21:24:53,557 - GPT_Trainer - INFO - Temel model yükleniyor: gpt2
+2025-06-16 21:24:53,980 - GPT_Trainer - ERROR - Model yükleme hatası: expected str, bytes or os.PathLike object, not NoneType
+2025-06-16 21:24:54,005 - GPT_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\gpt_trainer.py", line 391, in load_base_model
+    self.tokenizer = GPT2Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2025, in from_pretrained
+    return cls._from_pretrained(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2278, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\models\gpt2\tokenization_gpt2.py", line 153, in __init__
+    with open(vocab_file, encoding="utf-8") as vocab_handle:
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2025-06-16 21:24:54,005 - GPT_Trainer - INFO - Temel model yükleniyor: gpt2
+2025-06-16 21:24:54,241 - GPT_Trainer - ERROR - Model yükleme hatası: expected str, bytes or os.PathLike object, not NoneType
+2025-06-16 21:24:54,241 - GPT_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\gpt_trainer.py", line 391, in load_base_model
+    self.tokenizer = GPT2Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2025, in from_pretrained
+    return cls._from_pretrained(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2278, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\models\gpt2\tokenization_gpt2.py", line 153, in __init__
+    with open(vocab_file, encoding="utf-8") as vocab_handle:
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2025-06-16 21:24:54,241 - GPT_Trainer - ERROR - Model yüklenemedi, eğitim iptal ediliyor.
+2025-06-16 21:24:54,241 - GPT_Trainer - ERROR - Model veya tokenizer yok, değerlendirme yapılamıyor.
+2025-06-16 21:24:54,241 - GPT_Training - ERROR - Eğitim süreci başarısız oldu.
+2025-06-16 21:28:56,688 - GPT_Training - INFO - GPT Eğitimi Başlatılıyor: model=gpt2, epochs=4
+2025-06-16 21:28:56,688 - GPT_Trainer - INFO - GPT Trainer başlatıldı: gpt2
+2025-06-16 21:28:56,688 - GPT_Trainer - INFO - Eğitim verileri hazırlanıyor...
+2025-06-16 21:28:56,688 - GPT_Trainer - INFO - Veritabanından plan verilerini çekiyorum
+2025-06-16 21:28:56,819 - GPT_Trainer - INFO - Veritabanı bağlantısı başarılı
+2025-06-16 21:28:56,868 - GPT_Trainer - WARNING - Gerekli tablolar bulunamadı. Test için sahte veriler oluşturuluyor.
+2025-06-16 21:28:56,868 - GPT_Trainer - INFO - Test için örnek veri oluşturuluyor...
+2025-06-16 21:28:56,868 - GPT_Trainer - INFO - Örnek eğitim verileri hazırlandı: {'train': 4, 'test': 1, 'total': 5}
+2025-06-16 21:28:56,870 - GPT_Trainer - INFO - Temel model yükleniyor: gpt2
+2025-06-16 21:28:57,023 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:28:57,024 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:28:58,054 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:28:58,062 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:29:00,100 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:29:00,100 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:29:04,122 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:29:04,122 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:29:12,151 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:29:12,151 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:29:20,172 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:29:20,232 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:29:20,232 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:29:21,264 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:29:21,264 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:29:23,289 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:29:23,289 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:29:27,322 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:29:27,333 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:29:35,364 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:29:35,364 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:29:43,393 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:29:43,428 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:29:43,429 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:29:44,447 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:29:44,447 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:29:46,470 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:29:46,470 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:29:50,499 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:29:50,499 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:29:58,527 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:29:58,538 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:30:06,562 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:30:06,592 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/added_tokens.json
+2025-06-16 21:30:06,592 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:30:07,615 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/added_tokens.json
+2025-06-16 21:30:07,615 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:30:09,639 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/added_tokens.json
+2025-06-16 21:30:09,639 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:30:13,664 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/added_tokens.json
+2025-06-16 21:30:13,664 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:30:21,683 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/added_tokens.json
+2025-06-16 21:30:21,683 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:30:29,702 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/added_tokens.json
+2025-06-16 21:30:29,739 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/special_tokens_map.json
+2025-06-16 21:30:29,743 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:30:30,770 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/special_tokens_map.json
+2025-06-16 21:30:30,770 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:30:32,796 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/special_tokens_map.json
+2025-06-16 21:30:32,796 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:30:36,845 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/special_tokens_map.json
+2025-06-16 21:30:36,851 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:30:44,874 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/special_tokens_map.json
+2025-06-16 21:30:44,874 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:30:52,911 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/special_tokens_map.json
+2025-06-16 21:30:52,943 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:30:52,943 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:30:53,968 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:30:53,968 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:30:55,999 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:30:55,999 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:31:00,022 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:31:00,022 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:31:08,046 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:31:08,046 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:31:16,070 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:31:16,103 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer.json
+2025-06-16 21:31:16,105 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:31:17,131 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer.json
+2025-06-16 21:31:17,131 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:31:19,163 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer.json
+2025-06-16 21:31:19,163 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:31:23,193 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer.json
+2025-06-16 21:31:23,197 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:31:31,229 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer.json
+2025-06-16 21:31:31,229 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:31:39,273 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer.json
+2025-06-16 21:31:39,296 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/chat_template.jinja
+2025-06-16 21:31:39,296 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:31:40,322 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/chat_template.jinja
+2025-06-16 21:31:40,322 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:31:42,361 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/chat_template.jinja
+2025-06-16 21:31:42,361 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:31:46,388 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/chat_template.jinja
+2025-06-16 21:31:46,398 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:31:54,430 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/chat_template.jinja
+2025-06-16 21:31:54,440 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:32:02,467 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/chat_template.jinja
+2025-06-16 21:32:02,491 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/config.json
+2025-06-16 21:32:02,491 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:32:03,513 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/config.json
+2025-06-16 21:32:03,524 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:32:05,548 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/config.json
+2025-06-16 21:32:05,548 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:32:09,594 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/config.json
+2025-06-16 21:32:09,594 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:32:17,614 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/config.json
+2025-06-16 21:32:17,625 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:32:25,642 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/config.json
+2025-06-16 21:32:25,653 - GPT_Trainer - ERROR - Model yükleme hatası: expected str, bytes or os.PathLike object, not NoneType
+2025-06-16 21:32:25,656 - GPT_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\gpt_trainer.py", line 391, in load_base_model
+    self.tokenizer = GPT2Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2025, in from_pretrained
+    return cls._from_pretrained(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2278, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\models\gpt2\tokenization_gpt2.py", line 153, in __init__
+    with open(vocab_file, encoding="utf-8") as vocab_handle:
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+2025-06-16 21:32:25,656 - GPT_Trainer - INFO - Temel model yükleniyor: gpt2
+2025-06-16 21:32:25,675 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:32:25,675 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:32:26,701 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:32:26,708 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:32:28,730 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:32:28,730 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:32:32,747 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:32:32,759 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:32:40,777 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:32:40,777 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:32:48,803 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/tokenizer_config.json
+2025-06-16 21:32:48,853 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:32:48,853 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:32:49,875 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:32:49,884 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:32:51,903 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:32:51,913 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:32:55,935 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:32:55,935 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:33:03,967 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:33:03,977 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:33:11,997 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/vocab.json
+2025-06-16 21:33:12,030 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:33:12,030 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:33:13,059 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:33:13,059 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].
+2025-06-16 21:33:15,091 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:33:15,091 - huggingface_hub.utils._http - WARNING - Retrying in 4s [Retry 3/5].
+2025-06-16 21:33:19,108 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:33:19,118 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 4/5].
+2025-06-16 21:33:27,146 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:33:27,146 - huggingface_hub.utils._http - WARNING - Retrying in 8s [Retry 5/5].
+2025-06-16 21:33:35,178 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/merges.txt
+2025-06-16 21:33:35,211 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/added_tokens.json
+2025-06-16 21:33:35,211 - huggingface_hub.utils._http - WARNING - Retrying in 1s [Retry 1/5].
+2025-06-16 21:33:36,239 - huggingface_hub.utils._http - WARNING - HTTP Error 429 thrown while requesting HEAD https://huggingface.co/gpt2/resolve/main/added_tokens.json
+2025-06-16 21:33:36,240 - huggingface_hub.utils._http - WARNING - Retrying in 2s [Retry 2/5].

@@ -1,0 +1,222 @@
+2025-06-12 23:47:37,504 - LSTMTraining - INFO - LSTM Eğitim Süreci Başlatılıyor...
+2025-06-12 23:47:37,504 - LSTMTraining - INFO - LSTMDataProcessor başlatıldı
+2025-06-12 23:47:37,504 - LSTMTraining - INFO - Tüm eğitim verilerini çekiyorum...
+2025-06-12 23:47:37,647 - LSTMTraining - INFO - Veritabanı bağlantısı başarılı
+2025-06-12 23:47:37,663 - LSTMTraining - ERROR - Eğitim verileri çekilirken hata: Execution failed on sql '
+        SELECT 
+            m.id AS message_id,
+            m.content AS user_query,
+            m.timestamp AS message_time,
+            s.id AS session_id,
+            s.title AS session_title,
+            r.content AS bot_response,
+            ai.plan_metni AS plan_text,
+            ai.ay_suresi AS duration_months,
+            fon.kod AS fon_code,
+            fon.tur AS fon_type,
+            f.puan AS feedback_score
+        FROM 
+            chat_chatmessage m
+        JOIN 
+            chat_chatsession s ON m.session_id = s.id
+        LEFT JOIN 
+            chat_chatmessage r ON r.reply_to_id = m.id
+        LEFT JOIN 
+            chat_aiplan ai ON ai.message_id = r.id
+        LEFT JOIN 
+            chat_fon fon ON ai.fon_id = fon.id
+        LEFT JOIN 
+            chat_userfeedback f ON f.message_id = r.id
+        WHERE 
+            m.is_user = 1
+            AND r.content IS NOT NULL
+        ORDER BY 
+            m.timestamp DESC
+        ': ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'reply_to_id'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207)")
+2025-06-12 23:47:37,688 - LSTMTraining - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+pyodbc.ProgrammingError: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'reply_to_id'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai\lstm_training.py", line 156, in fetch_all_training_data
+    df = pd.read_sql(query, conn)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 706, in read_sql
+    return pandas_sql.read_query(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql '
+        SELECT 
+            m.id AS message_id,
+            m.content AS user_query,
+            m.timestamp AS message_time,
+            s.id AS session_id,
+            s.title AS session_title,
+            r.content AS bot_response,
+            ai.plan_metni AS plan_text,
+            ai.ay_suresi AS duration_months,
+            fon.kod AS fon_code,
+            fon.tur AS fon_type,
+            f.puan AS feedback_score
+        FROM 
+            chat_chatmessage m
+        JOIN 
+            chat_chatsession s ON m.session_id = s.id
+        LEFT JOIN 
+            chat_chatmessage r ON r.reply_to_id = m.id
+        LEFT JOIN 
+            chat_aiplan ai ON ai.message_id = r.id
+        LEFT JOIN 
+            chat_fon fon ON ai.fon_id = fon.id
+        LEFT JOIN 
+            chat_userfeedback f ON f.message_id = r.id
+        WHERE 
+            m.is_user = 1
+            AND r.content IS NOT NULL
+        ORDER BY 
+            m.timestamp DESC
+        ': ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'reply_to_id'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207)")
+
+2025-06-12 23:47:37,690 - LSTMTraining - INFO - Geri bildirim puanı olan mesajları çekiyorum...
+2025-06-12 23:47:37,692 - LSTMTraining - INFO - Veritabanı bağlantısı başarılı
+2025-06-12 23:47:37,701 - LSTMTraining - ERROR - Geri bildirimli mesajlar çekilirken hata: Execution failed on sql '
+        SELECT 
+            m.id AS message_id,
+            m.content AS message_text,
+            m.is_user,
+            s.id AS session_id,
+            s.title AS session_title,
+            f.puan AS feedback_score,
+            f.yorum AS feedback_comment,
+            r.content AS response_text,
+            ai.plan_metni AS plan_text,
+            ai.ay_suresi AS duration_months,
+            fon.kod AS fon_code,
+            fon.tur AS fon_type
+        FROM 
+            chat_chatmessage m
+        JOIN 
+            chat_chatsession s ON m.session_id = s.id
+        LEFT JOIN 
+            chat_chatmessage r ON r.reply_to_id = m.id
+        LEFT JOIN 
+            chat_userfeedback f ON f.message_id = r.id
+        LEFT JOIN 
+            chat_aiplan ai ON ai.message_id = r.id
+        LEFT JOIN 
+            chat_fon fon ON ai.fon_id = fon.id
+        WHERE 
+            f.puan IS NOT NULL
+        ORDER BY 
+            f.puan DESC, m.timestamp DESC
+        ': ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'reply_to_id'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207)")
+2025-06-12 23:47:37,707 - LSTMTraining - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2674, in execute
+    cur.execute(sql, *args)
+pyodbc.ProgrammingError: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'reply_to_id'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai\lstm_training.py", line 102, in fetch_messages_with_feedback
+    df = pd.read_sql(query, conn)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 706, in read_sql
+    return pandas_sql.read_query(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2738, in read_query
+    cursor = self.execute(sql, params)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2686, in execute
+    raise ex from exc
+pandas.errors.DatabaseError: Execution failed on sql '
+        SELECT 
+            m.id AS message_id,
+            m.content AS message_text,
+            m.is_user,
+            s.id AS session_id,
+            s.title AS session_title,
+            f.puan AS feedback_score,
+            f.yorum AS feedback_comment,
+            r.content AS response_text,
+            ai.plan_metni AS plan_text,
+            ai.ay_suresi AS duration_months,
+            fon.kod AS fon_code,
+            fon.tur AS fon_type
+        FROM 
+            chat_chatmessage m
+        JOIN 
+            chat_chatsession s ON m.session_id = s.id
+        LEFT JOIN 
+            chat_chatmessage r ON r.reply_to_id = m.id
+        LEFT JOIN 
+            chat_userfeedback f ON f.message_id = r.id
+        LEFT JOIN 
+            chat_aiplan ai ON ai.message_id = r.id
+        LEFT JOIN 
+            chat_fon fon ON ai.fon_id = fon.id
+        WHERE 
+            f.puan IS NOT NULL
+        ORDER BY 
+            f.puan DESC, m.timestamp DESC
+        ': ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'reply_to_id'. (207) (SQLExecDirectW); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207); [42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'message_id'. (207)")
+
+2025-06-12 23:47:37,709 - LSTMTraining - INFO - Eğitim verileri hazırlanıyor...
+2025-06-12 23:52:09,986 - LSTMTraining - INFO - LSTM Eğitim Süreci Başlatılıyor...
+2025-06-12 23:52:09,986 - LSTMTraining - INFO - LSTMDataProcessor başlatıldı
+2025-06-12 23:52:09,986 - LSTMTraining - INFO - Tüm plan verilerini çekiyorum...
+2025-06-12 23:52:10,109 - LSTMTraining - INFO - Veritabanı bağlantısı başarılı
+2025-06-12 23:52:10,139 - LSTMTraining - ERROR - Plan verileri çekilirken hata: ('ODBC SQL type -155 is not yet supported.  column-index=3  type=-155', 'HY106')
+2025-06-12 23:52:10,140 - LSTMTraining - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai\lstm_training.py", line 146, in fetch_all_plans
+    df = pd.read_sql(query, conn)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 706, in read_sql
+    return pandas_sql.read_query(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2753, in read_query
+    data = self._fetchall_as_list(cursor)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2768, in _fetchall_as_list
+    result = cur.fetchall()
+pyodbc.ProgrammingError: ('ODBC SQL type -155 is not yet supported.  column-index=3  type=-155', 'HY106')
+
+2025-06-12 23:52:10,145 - LSTMTraining - INFO - Veritabanından 0 adet plan çekildi
+2025-06-12 23:52:10,146 - LSTMTraining - INFO - Eğitim verileri hazırlanıyor...
+2025-06-12 23:52:10,146 - LSTMTraining - INFO - Tüm plan verilerini çekiyorum...
+2025-06-12 23:52:10,147 - LSTMTraining - INFO - Veritabanı bağlantısı başarılı
+2025-06-12 23:52:10,151 - LSTMTraining - ERROR - Plan verileri çekilirken hata: ('ODBC SQL type -155 is not yet supported.  column-index=3  type=-155', 'HY106')
+2025-06-12 23:52:10,152 - LSTMTraining - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai\lstm_training.py", line 146, in fetch_all_plans
+    df = pd.read_sql(query, conn)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 706, in read_sql
+    return pandas_sql.read_query(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2753, in read_query
+    data = self._fetchall_as_list(cursor)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\pandas\io\sql.py", line 2768, in _fetchall_as_list
+    result = cur.fetchall()
+pyodbc.ProgrammingError: ('ODBC SQL type -155 is not yet supported.  column-index=3  type=-155', 'HY106')
+
+2025-06-12 23:52:10,154 - LSTMTraining - WARNING - Veritabanında plan verisi bulunamadı!
+2025-06-12 23:52:10,155 - LSTMTraining - INFO - Manuel veri seti oluşturuldu: 1418 örnek
+2025-06-12 23:52:10,160 - LSTMTraining - INFO - Manuel eğitim verileri hazırlandı: {'train': 1134, 'test': 284, 'total': 1418}
+2025-06-12 23:52:10,160 - LSTMTraining - INFO - LSTM model eğitimi başlıyor...
+2025-06-12 23:52:10,243 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-12 23:52:10,271 - LSTMTraining - INFO - Başlangıç modeli kaydedildi: agent_ai/lstm_training_data\model\lstm_model_initial.h5
+2025-06-12 23:52:10,271 - LSTMTraining - INFO - Eğitim başlıyor: 15 epoch, 16 batch size
+2025-06-12 23:52:13,745 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-12 23:52:15,264 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-12 23:52:16,821 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-12 23:52:35,125 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-12 23:52:35,168 - LSTMTraining - INFO - Final modeli kaydedildi: agent_ai/models\lstm_model.h5
+2025-06-12 23:52:35,169 - LSTMTraining - INFO - Output tokenizer kaydedildi: agent_ai/models\output_tokenizer.pickle
+2025-06-12 23:52:35,276 - LSTMTraining - INFO - Test doğruluğu: 1.0000
+2025-06-12 23:52:35,276 - LSTMTraining - INFO - 
+Örnek Tahminler:
+2025-06-12 23:52:35,480 - LSTMTraining - INFO - Sorgu: TÜBİTAK 2209-A için 12 aylık proje planı oluşturabilir misin?
+2025-06-12 23:52:35,480 - LSTMTraining - INFO - Tahmin: Uzun Vadeli (7+ ay) (Güven: %99.99)
+2025-06-12 23:52:35,535 - LSTMTraining - INFO - Sorgu: 1001 projesi için 3 aylık plan istiyorum
+2025-06-12 23:52:35,536 - LSTMTraining - INFO - Tahmin: Kısa Vadeli (1-3 ay) (Güven: %100.00)
+2025-06-12 23:52:35,583 - LSTMTraining - INFO - Sorgu: 6 aylık bir araştırma projesi planı yazabilir misin?
+2025-06-12 23:52:35,583 - LSTMTraining - INFO - Tahmin: Orta Vadeli (4-6 ay) (Güven: %99.96)
+2025-06-12 23:52:35,638 - LSTMTraining - INFO - Sorgu: Akıllı şehir uygulamaları için bir proje planı
+2025-06-12 23:52:35,638 - LSTMTraining - INFO - Tahmin: Orta Vadeli (4-6 ay) (Güven: %97.87)
+2025-06-12 23:52:35,638 - LSTMTraining - INFO - LSTM model eğitimi başarıyla tamamlandı.

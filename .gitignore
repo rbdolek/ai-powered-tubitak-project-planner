@@ -1,0 +1,43 @@
+# ======================
+# Python / Django
+# ======================
+backend/.venv/
+backend/venv/
+backend/env/
+backend/__pycache__/
+backend/**/*.py[cod]
+backend/db.sqlite3
+backend/media/
+backend/*.log
+
+# Environment variables
+backend/.env
+frontend/.env
+.env
+
+# ======================
+# React
+# ======================
+frontend/node_modules/
+frontend/build/
+frontend/coverage/
+
+# ======================
+# AI Models
+# ======================
+backend/model_checkpoints/
+*.h5
+*.keras
+*.ckpt
+
+# ======================
+# IDE
+# ======================
+.vscode/
+.idea/
+
+# ======================
+# OS
+# ======================
+.DS_Store
+Thumbs.db

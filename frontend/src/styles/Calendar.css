@@ -1,0 +1,430 @@
+/* Calendar.css - TÜBİTAK Chat ana tema renklerine uygun takvim stilleri */
+
+/* Genel sayfa container */
+.calendar-page {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #1a1a1a;
+    color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+/* Takvim başlık kısmı */
+.calendar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #333;
+    flex-wrap: wrap;
+}
+
+.calendar-title h1 {
+    margin: 0;
+    font-size: 24px;
+    color: white;
+    font-weight: 600;
+}
+
+/* Takvim navigasyon kontrolleri */
+.calendar-navigation {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.today-btn {
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.today-btn:hover {
+    background-color: #cc0000;
+}
+
+.nav-btn {
+    background-color: #333;
+    color: white;
+    border: 1px solid #444;
+    border-radius: 4px;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.2s;
+}
+
+.nav-btn:hover {
+    background-color: #444;
+}
+
+.current-period {
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    margin: 0 10px;
+}
+
+/* Görünüm modu seçici */
+.calendar-tools {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.view-mode-selector {
+    display: flex;
+}
+
+.view-btn {
+    background-color: #333;
+    color: white;
+    border: 1px solid #444;
+    padding: 6px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.view-btn:first-child {
+    border-radius: 4px 0 0 4px;
+}
+
+.view-btn:last-child {
+    border-radius: 0 4px 4px 0;
+}
+
+.view-btn.active {
+    background-color: #ff0000;
+    color: white;
+    border-color: #ff0000;
+}
+
+.calendar-dropdown {
+    padding: 8px 12px;
+    border: 1px solid #444;
+    border-radius: 4px;
+    font-size: 14px;
+    background-color: #333;
+    color: white;
+    min-width: 200px;
+}
+
+.calendar-dropdown option {
+    background-color: #333;
+}
+
+/* Takvim container */
+.calendar-container {
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #222;
+    border: 1px solid #333;
+}
+
+/* Takvim tablosu */
+.calendar-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+.calendar-table th {
+    background-color: #333;
+    color: white;
+    padding: 12px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 14px;
+    border: 1px solid #444;
+}
+
+.calendar-day {
+    height: 120px;
+    vertical-align: top;
+    border: 1px solid #444;
+    background-color: #222;
+    transition: background-color 0.1s;
+}
+
+.calendar-day:hover {
+    background-color: #2a2a2a;
+}
+
+.other-month {
+    background-color: #1a1a1a;
+}
+
+.other-month .day-header {
+    color: #666;
+}
+
+.today {
+    background-color: rgba(255, 0, 0, 0.1);
+    border: 1px solid rgba(255, 0, 0, 0.3);
+}
+
+.day-header {
+    text-align: right;
+    padding: 4px 8px;
+    font-size: 14px;
+    color: #ccc;
+}
+
+.day-content {
+    padding: 2px 4px;
+    overflow: hidden;
+}
+
+/* Etkinlik stilleri */
+.event {
+    margin-bottom: 2px;
+    padding: 3px 6px;
+    border-radius: 2px;
+    font-size: 11px;
+    color: white;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    cursor: pointer;
+    transition: all 0.1s;
+}
+
+.event:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Etkinlik renkleri - TÜBİTAK temalarına uygun */
+.event[style*="background-color: #4caf50"] {
+    background-color: #4caf50 !important;
+}
+
+.event[style*="background-color: #2d7fd3"] {
+    background-color: #ff0000 !important;
+}
+
+/* Hafta görünümü */
+.week-view {
+    border: 1px solid #333;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #222;
+}
+
+.week-header {
+    display: flex;
+    background-color: #333;
+}
+
+.week-day-header {
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+    border-right: 1px solid #444;
+}
+
+.week-day-header:last-child {
+    border-right: none;
+}
+
+.week-day-header.today {
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+.day-name {
+    font-size: 14px;
+    font-weight: 600;
+    color: #ccc;
+    margin-bottom: 5px;
+}
+
+.day-number {
+    font-size: 22px;
+    color: white;
+}
+
+.week-content {
+    display: flex;
+    height: 600px;
+}
+
+.week-day {
+    flex: 1;
+    padding: 10px;
+    border-right: 1px solid #444;
+    background-color: #222;
+    overflow-y: auto;
+}
+
+.week-day:last-child {
+    border-right: none;
+}
+
+.week-day.today {
+    background-color: rgba(255, 0, 0, 0.1);
+}
+
+/* Gün görünümü */
+.day-view {
+    border: 1px solid #333;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #222;
+}
+
+.day-header {
+    padding: 15px;
+    background-color: #333;
+    border-bottom: 1px solid #444;
+}
+
+.day-title {
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+
+.day-events {
+    padding: 15px;
+    min-height: 600px;
+}
+
+.no-events {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    color: #888;
+    font-style: italic;
+}
+
+.day-event {
+    margin-bottom: 10px;
+    padding: 12px 15px;
+    border-left: 4px solid;
+    background-color: #2a2a2a;
+    border-radius: 0 4px 4px 0;
+    transition: all 0.1s;
+}
+
+.day-event:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.event-time {
+    font-size: 12px;
+    color: #aaa;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.event-title {
+    font-size: 14px;
+    color: white;
+}
+
+/* Boş takvim mesajı */
+.no-calendar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #222;
+    border-radius: 8px;
+    color: #aaa;
+    height: 300px;
+    border: 1px solid #333;
+}
+
+.no-calendar p {
+    max-width: 500px;
+    margin-bottom: 20px;
+}
+
+.goto-chat-btn {
+    padding: 10px 20px;
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.goto-chat-btn:hover {
+    background-color: #cc0000;
+}
+
+/* Scrollbar stilleri */
+.week-day::-webkit-scrollbar {
+    width: 6px;
+}
+
+.week-day::-webkit-scrollbar-track {
+    background: #222;
+}
+
+.week-day::-webkit-scrollbar-thumb {
+    background-color: #444;
+    border-radius: 3px;
+}
+
+/* Responsive düzenlemeler */
+@media (max-width: 768px) {
+    .calendar-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .calendar-title,
+    .calendar-navigation,
+    .calendar-tools {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .calendar-tools {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .view-mode-selector {
+        width: 100%;
+    }
+
+    .view-btn {
+        flex: 1;
+        text-align: center;
+    }
+
+    .calendar-select {
+        width: 100%;
+    }
+
+    .calendar-dropdown {
+        width: 100%;
+    }
+
+    .calendar-day {
+        height: 80px;
+    }
+}

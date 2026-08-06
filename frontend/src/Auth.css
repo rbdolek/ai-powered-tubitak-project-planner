@@ -1,0 +1,109 @@
+/* Koyu arka plan, merkezlenmiş kart */
+.auth-wrapper {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0f172a;
+    /* tailwind slate-900 benzeri */
+    padding: 1rem;
+}
+
+/* Kart */
+.auth-card {
+    width: 320px;
+    background: #1e293b;
+    color: #f1f5f9;
+    border-radius: 16px;
+    padding: 32px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .4);
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.auth-title {
+    font-size: 1.8rem;
+    text-align: center;
+    margin-bottom: 8px
+}
+
+/* Form elemanları */
+.auth-input {
+    padding: 10px 14px;
+    border: none;
+    border-radius: 10px;
+    background: #334155;
+    color: #f1f5f9;
+    font-size: 1rem;
+}
+
+.auth-input:focus {
+    outline: 2px solid #10b981
+}
+
+/* yeşil vurgulu */
+
+/* Butonlar */
+.auth-btn,
+.auth-btn-small {
+    background: #10b981;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 0;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.auth-btn:hover,
+.auth-btn-small:hover {
+    background: #059669
+}
+
+.auth-btn-small {
+    padding: 6px 14px;
+    font-size: .9rem
+}
+
+/* Hata ve alt metin */
+.auth-error {
+    color: #f87171;
+    text-align: center
+}
+
+.auth-switch {
+    font-size: .85rem;
+    text-align: center
+}
+
+/* Navbar */
+.nav {
+    display: flex;
+    align-items: center;
+    padding: 12px 24px;
+    background: #1e293b;
+    color: #f1f5f9;
+}
+
+.brand {
+    color: #10b981;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 1.2rem
+}
+
+.nav-link {
+    color: #f1f5f9;
+    margin-left: 1rem;
+    text-decoration: none
+}
+
+.nav-gap {
+    flex: 1
+}
+
+.nav-user {
+    margin-right: 1rem
+}

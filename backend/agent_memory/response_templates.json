@@ -1,0 +1,18 @@
+{
+  "0": [
+    "Bu konu hakkında bilgim yok.",
+    "Üzgünüm, bu konuda bilgi sağlayamıyorum."
+  ],
+  "1": [
+    "3 aylık plan şablonu: {fon_turu} fonu için ilk ayda {eylem1}, ikinci ayda {eylem2}, üçüncü ayda {eylem3} şeklinde ilerleyebilirsiniz."
+  ],
+  "2": [
+    "6 aylık plan şablonu: {fon_turu} fonu için 6 aylık süreç şöyle planlanabilir: {plan_detayi}"
+  ],
+  "3": [
+    "12 aylık plan şablonu: {fon_turu} fonu için 1 yıllık program şu adımlardan oluşmaktadır: {program_adimlari}"
+  ],
+  "4": [
+    "Özel plan şablonu: {fon_turu} fonu için özel olarak hazırlanmış plan: {ozel_plan}"
+  ]
+}

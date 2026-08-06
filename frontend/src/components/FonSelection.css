@@ -1,0 +1,23 @@
+/* src/components/FonSelection.css */
+.fon-selection-container {
+    padding: 20px;
+    text-align: center;
+}
+
+.fon-list {
+    list-style: none;
+    padding: 0;
+}
+
+.fon-list li {
+    margin: 10px;
+    padding: 10px 15px;
+    background-color: #e5e5e5;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.fon-list li:hover {
+    background-color: #d3d3d3;
+}

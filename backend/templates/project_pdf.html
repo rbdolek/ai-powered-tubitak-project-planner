@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 2cm;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .task {
+            margin-bottom: 1em;
+        }
+
+        .task-header {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>{{ project.title }}</h1>
+    <p><strong>Açıklama:</strong> {{ project.description }}</p>
+    <p><strong>Model:</strong> {{ project.ai_model_used }}, <strong>Süre (ay):</strong> {{ project.duration_months }}
+    </p>
+    <hr>
+    <h2>Görevler</h2>
+    {% for task in project.tasks.all %}
+    <div class="task">
+        <div class="task-header">{{ forloop.counter }}. {{ task.name }} ({{ task.start_date }} – {{ task.end_date }})
+        </div>
+        <div>{{ task.description }}</div>
+        <div><em>Tamamlandı: {{ task.completed|yesno:"Evet,Hayır" }}</em></div>
+    </div>
+    {% endfor %}
+</body>
+
+</html>

@@ -1,0 +1,17 @@
+{
+  "0": [
+    "Bu konu hakkında bilgim yok. Lütfen TÜBİTAK fonu ve proje süresi konusunda daha fazla bilgi verir misiniz?"
+  ],
+  "1": [
+    "3 aylık plan şablonu: {fon_kodu} {fon_turu} fonu için kısa vadeli 3 aylık bir plan oluşturulacak."
+  ],
+  "2": [
+    "6 aylık plan şablonu: {fon_kodu} {fon_turu} fonu için orta vadeli 6 aylık bir plan oluşturulacak."
+  ],
+  "3": [
+    "12 aylık plan şablonu: {fon_kodu} {fon_turu} fonu için 1 yıllık program şu adımlardan oluşacak."
+  ],
+  "4": [
+    "{fon_kodu} {fon_turu} fonu için {ay_suresi} aylık kapsamlı bir proje planı oluşturulacak."
+  ]
+}

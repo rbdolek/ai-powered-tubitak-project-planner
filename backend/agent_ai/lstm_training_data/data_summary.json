@@ -1,0 +1,28 @@
+{
+  "vocab_size": 8,
+  "max_length": 100,
+  "max_words": 10000,
+  "class_meanings": {
+    "0": "Bilinmeyen/S\u0131n\u0131fland\u0131r\u0131lmam\u0131\u015f",
+    "1": "K\u0131sa s\u00fcreli (1-3 ay)",
+    "2": "Orta s\u00fcreli (4-6 ay)",
+    "3": "Uzun s\u00fcreli (7-12 ay)",
+    "4": "\u00c7ok uzun s\u00fcreli (12+ ay)"
+  },
+  "class_distribution": {
+    "train": {
+      "0": 52,
+      "4": 2
+    },
+    "test": {
+      "0": 14
+    }
+  },
+  "num_samples": {
+    "train": 54,
+    "test": 14,
+    "total": 68
+  },
+  "version": "1.0",
+  "timestamp": "2025-06-12 23:37:25"
+}

@@ -1,0 +1,114 @@
+<|QUERY|>
+TÜBİTAK 1001 için 12 aylık yapay zeka projesi planı oluştur
+
+<|PLAN|>
+TÜBİTAK 1001 PROJESİ - 12 AYLIK PLAN
+
+Ay 1-3: Başlangıç ve Planlama
+- Literatür taraması yapılması
+- Veri toplama stratejilerinin belirlenmesi
+- Proje ekibinin oluşturulması
+
+Ay 4-6: Geliştirme
+- Algoritmaların geliştirilmesi
+- Model eğitimi ve optimizasyonu
+- Ön testlerin yapılması
+
+Ay 7-9: Test ve İyileştirme
+- Modelin farklı veri setleriyle test edilmesi
+- Performans değerlendirmesi
+- Gerekli iyileştirmelerin yapılması
+
+Ay 10-12: Değerlendirme ve Raporlama
+- Son testlerin yapılması
+- Sonuçların analizi
+- Final raporunun hazırlanması
+
+<|END|>
+<|QUERY|>
+6 aylık akıllı tarım projesi için plan yazar mısın?
+
+<|PLAN|>
+TÜBİTAK PROJESİ - 6 AYLIK PLAN
+
+Ay 1-2: Başlangıç ve Planlama
+- Literatür taraması yapılması
+- Mevcut akıllı tarım sistemlerinin incelenmesi
+- Proje ekibinin oluşturulması
+- Çiftçiler ve tarım uzmanlarıyla görüşmeler
+
+Ay 3-4: Geliştirme
+- Sensör sistemlerinin tasarlanması
+- Yazılım altyapısının oluşturulması
+- İlk prototiplerin geliştirilmesi
+- Test alanının hazırlanması
+
+Ay 5-6: Test ve Değerlendirme
+- Saha testlerinin yapılması
+- Sistem performansının değerlendirilmesi
+- Gerekli iyileştirmelerin yapılması
+- Final raporunun hazırlanması ve sonuçların paylaşılması
+
+<|END|>
+<|QUERY|>
+TÜBİTAK 2209-A için 3 aylık robotik projesi
+
+<|PLAN|>
+TÜBİTAK 2209-A PROJESİ - 3 AYLIK PLAN
+
+Ay 1: Başlangıç ve Tasarım
+- Literatür taraması yapılması
+- Robot tasarımının tamamlanması
+- Gerekli malzemelerin temin edilmesi
+- İş paketlerinin detaylandırılması
+
+Ay 2: Geliştirme
+- Robot mekanik sisteminin inşası
+- Elektronik bileşenlerin entegrasyonu
+- Temel yazılımın geliştirilmesi
+- İlk test çalışmalarının yapılması
+
+Ay 3: Test ve Raporlama
+- Kapsamlı test süreçlerinin tamamlanması
+- İyileştirmelerin yapılması
+- Projenin dokümantasyonunun hazırlanması
+- Final raporunun yazılması ve sunumun hazırlanması
+
+<|END|>
+<|QUERY|>
+TÜBİTAK 1005 için 24 aylık yenilenebilir enerji projesi planı
+
+<|PLAN|>
+TÜBİTAK 1005 PROJESİ - 24 AYLIK PLAN
+
+Ay 1-3: Planlama ve Literatür Taraması
+- Kapsamlı literatür taraması
+- Proje ekibinin oluşturulması
+- İş paketlerinin detaylandırılması
+- Etik izinlerin alınması
+
+Ay 4-8: Tasarım ve Ön Çalışmalar
+- Yenilenebilir enerji sisteminin tasarımı
+- Simülasyon modellerinin oluşturulması
+- İlk prototiplerin geliştirilmesi
+- Ön testlerin yapılması
+
+Ay 9-14: Geliştirme (Birinci Aşama)
+- Sistem bileşenlerinin üretimi
+- Yazılım ve donanım entegrasyonu
+- İlk saha testlerinin başlatılması
+- Ara raporun hazırlanması
+
+Ay 15-20: Geliştirme (İkinci Aşama) ve Test
+- Tam ölçekli sistem entegrasyonu
+- Kapsamlı performans testleri
+- Veri toplama ve analiz
+- İyileştirmelerin yapılması
+
+Ay 21-24: Değerlendirme ve Raporlama
+- Sistemin uzun süreli performans değerlendirmesi
+- Ekonomik ve çevresel etki analizleri
+- Sonuçların yaygınlaştırılması
+- Final raporunun hazırlanması
+
+<|END|>

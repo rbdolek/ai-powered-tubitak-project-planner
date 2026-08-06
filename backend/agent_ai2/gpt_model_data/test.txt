@@ -1,0 +1,37 @@
+<|QUERY|>
+TÜBİTAK 3501 için 18 aylık sağlık teknolojileri projesi
+
+<|PLAN|>
+TÜBİTAK 3501 PROJESİ - 18 AYLIK PLAN
+
+Ay 1-3: Başlangıç ve Planlama
+- Literatür taraması yapılması
+- Proje ekibinin oluşturulması
+- Klinik ortaklarla iş birliği protokollerinin oluşturulması
+- Etik kurul izinlerinin alınması
+
+Ay 4-6: Tasarım ve Geliştirme (I)
+- Sistem mimarisinin tasarlanması
+- Prototip geliştirme başlangıcı
+- Kullanıcı geri bildirimi için metodoloji oluşturulması
+- Veri toplama protokollerinin hazırlanması
+
+Ay 7-10: Geliştirme (II)
+- Prototip geliştirmenin tamamlanması
+- Yazılım ve donanım entegrasyonu
+- İlk laboratuvar testlerinin yapılması
+- Klinik test planının detaylandırılması
+
+Ay 11-14: Klinik Testler ve İyileştirme
+- Kontrollü ortamda klinik testlerin başlatılması
+- Kullanıcı geri bildirimlerinin toplanması
+- Sistem iyileştirmelerinin yapılması
+- Ara raporun hazırlanması
+
+Ay 15-18: Değerlendirme ve Sonuçlandırma
+- Final klinik değerlendirmelerin yapılması
+- Performans ve etkinlik analizleri
+- Maliyet-etkinlik analizleri
+- Sonuçların yayına hazırlanması ve final raporun yazılması
+
+<|END|>

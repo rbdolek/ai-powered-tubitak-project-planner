@@ -1,0 +1,6 @@
+[
+  {
+    "input": "generate plan: TÜBİTAK 3501 için 18 aylık sağlık teknolojileri projesi",
+    "target": "TÜBİTAK 3501 PROJESİ - 18 AYLIK PLAN\n\nAy 1-3: Başlangıç ve Planlama\n- Literatür taraması yapılması\n- Proje ekibinin oluşturulması\n- Klinik ortaklarla iş birliği protokollerinin oluşturulması\n- Etik kurul izinlerinin alınması\n\nAy 4-6: Tasarım ve Geliştirme (I)\n- Sistem mimarisinin tasarlanması\n- Prototip geliştirme başlangıcı\n- Kullanıcı geri bildirimi için metodoloji oluşturulması\n- Veri toplama protokollerinin hazırlanması\n\nAy 7-10: Geliştirme (II)\n- Prototip geliştirmenin tamamlanması\n- Yazılım ve donanım entegrasyonu\n- İlk laboratuvar testlerinin yapılması\n- Klinik test planının detaylandırılması\n\nAy 11-14: Klinik Testler ve İyileştirme\n- Kontrollü ortamda klinik testlerin başlatılması\n- Kullanıcı geri bildirimlerinin toplanması\n- Sistem iyileştirmelerinin yapılması\n- Ara raporun hazırlanması\n\nAy 15-18: Değerlendirme ve Sonuçlandırma\n- Final klinik değerlendirmelerin yapılması\n- Performans ve etkinlik analizleri\n- Maliyet-etkinlik analizleri\n- Sonuçların yayına hazırlanması ve final raporun yazılması"
+  }
+]

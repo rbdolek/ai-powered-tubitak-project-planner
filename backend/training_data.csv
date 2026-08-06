@@ -1,0 +1,48 @@
+soru,soru_processed,yanit,features
+1001 programı için 3 aylık bir araştırma planı oluşturabilir misin?,1001 programı için 3 aylık bir araştırma planı oluşturabilir misin?,"TÜBİTAK 1001 Programı: 3 Aylık Araştırma Planı
+
+Bu program kapsamında 3 aylık bir araştırma planı şu şekilde olabilir:
+
+1. ay: Literatür taraması ve problem tanımı
+2. ay: Veri toplama ve metodoloji geliştirme
+3. ay: Analiz ve sonuçların raporlanması
+
+Bu kısa dönemli plan, hızlı sonuç almanız gereken araştırmalar için uygundur.","{""fon_kodu"": ""1001"", ""ay_suresi"": 3}"
+2247 programı için 6 aylık bir plan önerir misin?,2247 programı için 6 aylık bir plan önerir misin?,"TÜBİTAK 2247 Programı: 6 Aylık Araştırma Planı
+
+Bu program kapsamında 6 aylık bir araştırma planı şu şekilde olabilir:
+
+1. ay: Literatür taraması ve problem tanımı
+2. ay: Metodoloji geliştirme
+3-4. ay: Veri toplama ve ön analizler
+5. ay: Ana analiz ve bulguların değerlendirilmesi
+6. ay: Raporlama ve yaygınlaştırma faaliyetleri
+
+Bu orta vadeli plan, dengeli bir araştırma süreci sağlar.","{""fon_kodu"": ""2247"", ""ay_suresi"": 6}"
+3501 bursu için 12 aylık bir program taslağı hazırlar mısın?,3501 bursu için 12 aylık bir program taslağı hazırlar mısın?,"TÜBİTAK 3501 Programı: 12 Aylık Araştırma Planı
+
+Bu program kapsamında 12 aylık bir araştırma planı şu şekilde olabilir:
+
+1-2. ay: Detaylı literatür taraması ve problem tanımı
+3-4. ay: Metodoloji geliştirme ve ön hazırlıklar
+5-8. ay: Veri toplama ve ara analizler
+9-10. ay: Kapsamlı analiz ve bulguların değerlendirilmesi
+11-12. ay: Raporlama, yaygınlaştırma ve sonuç değerlendirmesi
+
+Bu uzun vadeli plan, kapsamlı araştırmalar için ideal bir yapı sunar.","{""fon_kodu"": ""3501"", ""ay_suresi"": 12}"
+1001 programı kapsamında 24 aylık bir proje planı oluşturabilir misin?,1001 programı kapsamında 24 aylık bir proje planı oluşturabilir misin?,"TÜBİTAK 1001 Programı: 24 Aylık Uzun Vadeli Araştırma Planı
+
+Bu program kapsamında 24 aylık bir araştırma planı şu şekilde olabilir:
+
+1-3. ay: Literatür taraması, problem tanımı ve araştırma ekibinin oluşturulması
+4-6. ay: Metodoloji geliştirme ve pilot çalışmalar
+7-12. ay: İlk faz veri toplama ve analiz
+13-18. ay: İkinci faz veri toplama ve derinlemesine analiz
+19-22. ay: Bulguların değerlendirilmesi ve karşılaştırmalı analizler
+23-24. ay: Nihai raporlama, yaygınlaştırma ve etki değerlendirmesi
+
+Bu kapsamlı uzun vadeli plan, büyük ölçekli araştırma projeleri için ideal bir çerçeve sunar.","{""fon_kodu"": ""1001"", ""ay_suresi"": 24}"
+TÜBİTAK 1001 projesi için 3 aylık kısa plan,tübitak 1001 projesi için 3 aylık kısa plan,"TÜBİTAK 1001 Programı kapsamında 3 aylık kısa bir plan: Ay 1: Literatür inceleme ve metodoloji, Ay 2: Veri toplama, Ay 3: Analiz ve raporlama.","{""fon_kodu"": ""1001"", ""ay_suresi"": 3}"
+6 aylık araştırma planı TÜBİTAK 3501,6 aylık araştırma planı tübitak 3501,"TÜBİTAK 3501 programı için 6 aylık araştırma planınız: 1-2 ay: Literatür ve hipotez geliştirme, 3-4 ay: Veri toplama ve ilk analiz, 5-6 ay: Değerlendirme ve rapor yazımı.","{""fon_kodu"": ""3501"", ""ay_suresi"": 6}"
+TÜBİTAK 2247 için 1 yıllık araştırma programı,tübitak 2247 için 1 yıllık araştırma programı,"TÜBİTAK 2247 programı için 12 aylık kapsamlı bir araştırma planı: İlk çeyrek: Teorik altyapı ve metodoloji, İkinci çeyrek: Veri toplama, Üçüncü çeyrek: Analiz ve bulguların değerlendirilmesi, Dördüncü çeyrek: Makale yazımı ve projenin tamamlanması.","{""fon_kodu"": ""2247"", ""ay_suresi"": 12}"
+36 aylık uzun vadeli TÜBİTAK plan taslağı,36 aylık uzun vadeli tübitak plan taslağı,"TÜBİTAK için 36 aylık kapsamlı araştırma planı: Yıl 1: Altyapı geliştirme, literatür analizi ve metodoloji, Yıl 2: Veri toplama ve kapsamlı analiz, Yıl 3: Sonuçların değerlendirilmesi, yayın hazırlığı ve proje çıktılarının yaygınlaştırılması.","{""fon_kodu"": ""1001"", ""ay_suresi"": 36}"

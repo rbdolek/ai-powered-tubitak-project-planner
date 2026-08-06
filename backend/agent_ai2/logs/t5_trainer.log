@@ -1,0 +1,234 @@
+2025-06-16 21:49:53,817 - T5_Trainer - INFO - T5 Eğitimi Başlatılıyor: model=t5-small, epochs=4
+2025-06-16 21:49:53,817 - T5_Trainer - INFO - T5 Plan Generator başlatıldı: t5-small
+2025-06-16 21:49:53,817 - T5_Trainer - INFO - Eğitim verileri hazırlanıyor...
+2025-06-16 21:49:53,817 - T5_Trainer - INFO - Veritabanından plan verilerini çekiyorum
+2025-06-16 21:49:53,953 - T5_Trainer - INFO - Veritabanı bağlantısı başarılı
+2025-06-16 21:49:54,008 - T5_Trainer - WARNING - Gerekli tablolar bulunamadı. Test için sahte veriler oluşturuluyor.
+2025-06-16 21:49:54,008 - T5_Trainer - INFO - Test için örnek veri oluşturuluyor...
+2025-06-16 21:49:54,012 - T5_Trainer - INFO - Örnek eğitim verileri hazırlandı: {'train': 4, 'val': 1, 'total': 5}
+2025-06-16 21:49:54,012 - T5_Trainer - INFO - Temel model yükleniyor: t5-small
+2025-06-16 21:49:54,012 - T5_Trainer - ERROR - Model yükleme hatası: 
+T5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+2025-06-16 21:49:54,013 - T5_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 429, in load_base_model
+    self.tokenizer = T5Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\utils\import_utils.py", line 1885, in __getattribute__
+    requires_backends(cls, cls._backends)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\utils\import_utils.py", line 1871, in requires_backends
+    raise ImportError("".join(failed))
+ImportError: 
+T5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+
+2025-06-16 21:49:54,014 - T5_Trainer - INFO - Model yüklenemedi, şablon sistem kullanılacak
+2025-06-16 21:49:54,015 - T5_Trainer - INFO - Şablon tabanlı sistem oluşturuluyor...
+2025-06-16 21:49:54,015 - T5_Trainer - ERROR - Şablon sistem oluşturma hatası: Parameter config in `SimpleT5Model(config)` should be an instance of class `PretrainedConfig`. To create a model from a pretrained model use `model = SimpleT5Model.from_pretrained(PRETRAINED_MODEL_NAME)`
+2025-06-16 21:49:54,016 - T5_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 429, in load_base_model
+    self.tokenizer = T5Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\utils\import_utils.py", line 1885, in __getattribute__
+    requires_backends(cls, cls._backends)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\utils\import_utils.py", line 1871, in requires_backends
+    raise ImportError("".join(failed))
+ImportError: 
+T5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 496, in _create_template_system
+    self.model = SimpleT5Model()
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 470, in __init__
+    super().__init__(None)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\modeling_utils.py", line 1903, in __init__
+    raise ValueError(
+ValueError: Parameter config in `SimpleT5Model(config)` should be an instance of class `PretrainedConfig`. To create a model from a pretrained model use `model = SimpleT5Model.from_pretrained(PRETRAINED_MODEL_NAME)`
+
+2025-06-16 21:49:54,016 - T5_Trainer - INFO - Temel model yükleniyor: t5-small
+2025-06-16 21:49:54,016 - T5_Trainer - ERROR - Model yükleme hatası: 
+T5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+2025-06-16 21:49:54,019 - T5_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 429, in load_base_model
+    self.tokenizer = T5Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\utils\import_utils.py", line 1885, in __getattribute__
+    requires_backends(cls, cls._backends)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\utils\import_utils.py", line 1871, in requires_backends
+    raise ImportError("".join(failed))
+ImportError: 
+T5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+
+2025-06-16 21:49:54,019 - T5_Trainer - INFO - Model yüklenemedi, şablon sistem kullanılacak
+2025-06-16 21:49:54,019 - T5_Trainer - INFO - Şablon tabanlı sistem oluşturuluyor...
+2025-06-16 21:49:54,019 - T5_Trainer - ERROR - Şablon sistem oluşturma hatası: Parameter config in `SimpleT5Model(config)` should be an instance of class `PretrainedConfig`. To create a model from a pretrained model use `model = SimpleT5Model.from_pretrained(PRETRAINED_MODEL_NAME)`
+2025-06-16 21:49:54,020 - T5_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 429, in load_base_model
+    self.tokenizer = T5Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\utils\import_utils.py", line 1885, in __getattribute__
+    requires_backends(cls, cls._backends)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\utils\import_utils.py", line 1871, in requires_backends
+    raise ImportError("".join(failed))
+ImportError: 
+T5Tokenizer requires the SentencePiece library but it was not found in your environment. Checkout the instructions on the
+installation page of its repo: https://github.com/google/sentencepiece#installation and follow the ones
+that match your environment. Please note that you may need to restart your runtime after installation.
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 496, in _create_template_system
+    self.model = SimpleT5Model()
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 470, in __init__
+    super().__init__(None)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\modeling_utils.py", line 1903, in __init__
+    raise ValueError(
+ValueError: Parameter config in `SimpleT5Model(config)` should be an instance of class `PretrainedConfig`. To create a model from a pretrained model use `model = SimpleT5Model.from_pretrained(PRETRAINED_MODEL_NAME)`
+
+2025-06-16 21:49:54,021 - T5_Trainer - ERROR - Model yüklenemedi, eğitim iptal ediliyor.
+2025-06-16 21:49:54,021 - T5_Trainer - ERROR - Model veya tokenizer yok, değerlendirme yapılamıyor.
+2025-06-16 21:49:54,021 - T5_Trainer - ERROR - Eğitim süreci başarısız oldu.
+2025-06-16 21:56:24,326 - T5_Trainer - INFO - T5 Eğitimi Başlatılıyor: model=t5-small, epochs=4
+2025-06-16 21:56:24,326 - T5_Trainer - INFO - T5 Plan Generator başlatıldı: t5-small
+2025-06-16 21:56:24,326 - T5_Trainer - INFO - Eğitim verileri hazırlanıyor...
+2025-06-16 21:56:24,326 - T5_Trainer - INFO - Veritabanından plan verilerini çekiyorum
+2025-06-16 21:56:24,477 - T5_Trainer - INFO - Veritabanı bağlantısı başarılı
+2025-06-16 21:56:24,539 - T5_Trainer - WARNING - Gerekli tablolar bulunamadı. Test için sahte veriler oluşturuluyor.
+2025-06-16 21:56:24,539 - T5_Trainer - INFO - Test için örnek veri oluşturuluyor...
+2025-06-16 21:56:24,539 - T5_Trainer - INFO - Örnek eğitim verileri hazırlandı: {'train': 4, 'val': 1, 'total': 5}
+2025-06-16 21:56:24,539 - T5_Trainer - INFO - Temel model yükleniyor: t5-small
+2025-06-16 21:56:29,355 - T5_Trainer - ERROR - Model yükleme hatası: Unable to load vocabulary from file. Please check that the provided vocabulary is accessible and not corrupted.
+2025-06-16 21:56:29,357 - T5_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2278, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\models\t5\tokenization_t5.py", line 150, in __init__
+    self.sp_model.Load(vocab_file)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sentencepiece\__init__.py", line 961, in Load
+    return self.LoadFromFile(model_file)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sentencepiece\__init__.py", line 316, in LoadFromFile
+    return _sentencepiece.SentencePieceProcessor_LoadFromFile(self, arg)
+OSError: Not found: "C:\Users\Rabia Dölek\.cache\huggingface\hub\models--t5-small\snapshots\df1b051c49625cf57a3d0d8d3863ed4d13564fe4\spiece.model": No such file or directory Error #2
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 429, in load_base_model
+    self.tokenizer = T5Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2025, in from_pretrained
+    return cls._from_pretrained(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2293, in _from_pretrained
+    raise OSError(
+OSError: Unable to load vocabulary from file. Please check that the provided vocabulary is accessible and not corrupted.
+
+2025-06-16 21:56:29,357 - T5_Trainer - INFO - Model yüklenemedi, şablon sistem kullanılacak
+2025-06-16 21:56:29,357 - T5_Trainer - INFO - Şablon tabanlı sistem oluşturuluyor...
+2025-06-16 21:56:29,357 - T5_Trainer - ERROR - Şablon sistem oluşturma hatası: Parameter config in `SimpleT5Model(config)` should be an instance of class `PretrainedConfig`. To create a model from a pretrained model use `model = SimpleT5Model.from_pretrained(PRETRAINED_MODEL_NAME)`
+2025-06-16 21:56:29,357 - T5_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2278, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\models\t5\tokenization_t5.py", line 150, in __init__
+    self.sp_model.Load(vocab_file)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sentencepiece\__init__.py", line 961, in Load
+    return self.LoadFromFile(model_file)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sentencepiece\__init__.py", line 316, in LoadFromFile
+    return _sentencepiece.SentencePieceProcessor_LoadFromFile(self, arg)
+OSError: Not found: "C:\Users\Rabia Dölek\.cache\huggingface\hub\models--t5-small\snapshots\df1b051c49625cf57a3d0d8d3863ed4d13564fe4\spiece.model": No such file or directory Error #2
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 429, in load_base_model
+    self.tokenizer = T5Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2025, in from_pretrained
+    return cls._from_pretrained(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2293, in _from_pretrained
+    raise OSError(
+OSError: Unable to load vocabulary from file. Please check that the provided vocabulary is accessible and not corrupted.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 496, in _create_template_system
+    self.model = SimpleT5Model()
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 470, in __init__
+    super().__init__(None)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\modeling_utils.py", line 1903, in __init__
+    raise ValueError(
+ValueError: Parameter config in `SimpleT5Model(config)` should be an instance of class `PretrainedConfig`. To create a model from a pretrained model use `model = SimpleT5Model.from_pretrained(PRETRAINED_MODEL_NAME)`
+
+2025-06-16 21:56:29,364 - T5_Trainer - INFO - Temel model yükleniyor: t5-small
+2025-06-16 21:56:30,044 - T5_Trainer - ERROR - Model yükleme hatası: Unable to load vocabulary from file. Please check that the provided vocabulary is accessible and not corrupted.
+2025-06-16 21:56:30,044 - T5_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2278, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\models\t5\tokenization_t5.py", line 150, in __init__
+    self.sp_model.Load(vocab_file)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sentencepiece\__init__.py", line 961, in Load
+    return self.LoadFromFile(model_file)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sentencepiece\__init__.py", line 316, in LoadFromFile
+    return _sentencepiece.SentencePieceProcessor_LoadFromFile(self, arg)
+OSError: Not found: "C:\Users\Rabia Dölek\.cache\huggingface\hub\models--t5-small\snapshots\df1b051c49625cf57a3d0d8d3863ed4d13564fe4\spiece.model": No such file or directory Error #2
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 429, in load_base_model
+    self.tokenizer = T5Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2025, in from_pretrained
+    return cls._from_pretrained(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2293, in _from_pretrained
+    raise OSError(
+OSError: Unable to load vocabulary from file. Please check that the provided vocabulary is accessible and not corrupted.
+
+2025-06-16 21:56:30,044 - T5_Trainer - INFO - Model yüklenemedi, şablon sistem kullanılacak
+2025-06-16 21:56:30,044 - T5_Trainer - INFO - Şablon tabanlı sistem oluşturuluyor...
+2025-06-16 21:56:30,044 - T5_Trainer - ERROR - Şablon sistem oluşturma hatası: Parameter config in `SimpleT5Model(config)` should be an instance of class `PretrainedConfig`. To create a model from a pretrained model use `model = SimpleT5Model.from_pretrained(PRETRAINED_MODEL_NAME)`
+2025-06-16 21:56:30,044 - T5_Trainer - ERROR - Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2278, in _from_pretrained
+    tokenizer = cls(*init_inputs, **init_kwargs)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\models\t5\tokenization_t5.py", line 150, in __init__
+    self.sp_model.Load(vocab_file)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sentencepiece\__init__.py", line 961, in Load
+    return self.LoadFromFile(model_file)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\sentencepiece\__init__.py", line 316, in LoadFromFile
+    return _sentencepiece.SentencePieceProcessor_LoadFromFile(self, arg)
+OSError: Not found: "C:\Users\Rabia Dölek\.cache\huggingface\hub\models--t5-small\snapshots\df1b051c49625cf57a3d0d8d3863ed4d13564fe4\spiece.model": No such file or directory Error #2
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 429, in load_base_model
+    self.tokenizer = T5Tokenizer.from_pretrained(self.base_model_name)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2025, in from_pretrained
+    return cls._from_pretrained(
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\tokenization_utils_base.py", line 2293, in _from_pretrained
+    raise OSError(
+OSError: Unable to load vocabulary from file. Please check that the provided vocabulary is accessible and not corrupted.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 496, in _create_template_system
+    self.model = SimpleT5Model()
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\agent_ai2\t5_generator.py", line 470, in __init__
+    super().__init__(None)
+  File "C:\Users\Rabia Dölek\Desktop\my\tubitak_project\.venv\lib\site-packages\transformers\modeling_utils.py", line 1903, in __init__
+    raise ValueError(
+ValueError: Parameter config in `SimpleT5Model(config)` should be an instance of class `PretrainedConfig`. To create a model from a pretrained model use `model = SimpleT5Model.from_pretrained(PRETRAINED_MODEL_NAME)`
+
+2025-06-16 21:56:30,047 - T5_Trainer - ERROR - Model yüklenemedi, eğitim iptal ediliyor.
+2025-06-16 21:56:30,047 - T5_Trainer - ERROR - Model veya tokenizer yok, değerlendirme yapılamıyor.
+2025-06-16 21:56:30,047 - T5_Trainer - ERROR - Eğitim süreci başarısız oldu.

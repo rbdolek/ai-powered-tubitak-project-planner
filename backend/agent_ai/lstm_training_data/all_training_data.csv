@@ -1,0 +1,6459 @@
+message_id,message_content,is_user,ai_model,response_content,ay_suresi,meta_data,feedback_score,fon_kod,fon_tur
+7,2209-A,True,gemini,"TÜBİTAK 2209-A fonu için ""Tarım ürünlerinin yaprak görüntülerinden hastalıkları tespit eden bir mobil uygulama geliştirmek. Çiftçiler, cep telefonlarıyla fotoğraf çekerek anında teşhis alabilecek.  🛠️ Yöntem: Bitki yapraklarına ait açık veri setleriyle model eğitimi (CNN tabanlı model)  TensorFlow Lite ile mobil uyarlama  Uygulama arayüzünün Android Studio ile geliştirilmesi  📌 Çıktı: Android tabanlı tanı uygulaması"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8122230768203735, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T13:34:10.773681"", ""existing_plan_id"": null}",0,2209-A,proje
+7,2209-A,True,gemini,"TÜBİTAK 2209-A fonu için ""Tarım ürünlerinin yaprak görüntülerinden hastalıkları tespit eden bir mobil uygulama geliştirmek. Çiftçiler, cep telefonlarıyla fotoğraf çekerek anında teşhis alabilecek.  🛠️ Yöntem: Bitki yapraklarına ait açık veri setleriyle model eğitimi (CNN tabanlı model)  TensorFlow Lite ile mobil uyarlama  Uygulama arayüzünün Android Studio ile geliştirilmesi  📌 Çıktı: Android tabanlı tanı uygulaması"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8122230768203735, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T13:34:10.773681"", ""existing_plan_id"": null}",0,2209-A,proje
+7,2209-A,True,gemini,"TÜBİTAK 2209-A fonu için ""Tarım ürünlerinin yaprak görüntülerinden hastalıkları tespit eden bir mobil uygulama geliştirmek. Çiftçiler, cep telefonlarıyla fotoğraf çekerek anında teşhis alabilecek.  🛠️ Yöntem: Bitki yapraklarına ait açık veri setleriyle model eğitimi (CNN tabanlı model)  TensorFlow Lite ile mobil uyarlama  Uygulama arayüzünün Android Studio ile geliştirilmesi  📌 Çıktı: Android tabanlı tanı uygulaması"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8122230768203735, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T13:34:10.773681"", ""existing_plan_id"": null}",0,2209-A,proje
+7,2209-A,True,gemini,"TÜBİTAK 2209-A fonu için ""Tarım ürünlerinin yaprak görüntülerinden hastalıkları tespit eden bir mobil uygulama geliştirmek. Çiftçiler, cep telefonlarıyla fotoğraf çekerek anında teşhis alabilecek.  🛠️ Yöntem: Bitki yapraklarına ait açık veri setleriyle model eğitimi (CNN tabanlı model)  TensorFlow Lite ile mobil uyarlama  Uygulama arayüzünün Android Studio ile geliştirilmesi  📌 Çıktı: Android tabanlı tanı uygulaması"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8122230768203735, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T13:34:10.773681"", ""existing_plan_id"": null}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- Metodoloji revizyonu
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Rapor düzeltmeleri
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T14:19:34.863629""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- Metodoloji revizyonu
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Rapor düzeltmeleri
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T14:19:34.863629""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İkinci dönem planının güncellenmesi
+- İlk dönem verilerinin değerlendirilmesi
+- Paydaş geri bildirimleri
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:21:33.257009""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İkinci dönem planının güncellenmesi
+- İlk dönem verilerinin değerlendirilmesi
+- Paydaş geri bildirimleri
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:21:33.257009""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İkinci dönem planının güncellenmesi
+- İlk dönem verilerinin değerlendirilmesi
+- Paydaş geri bildirimleri
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:21:33.257009""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İkinci dönem planının güncellenmesi
+- İlk dönem verilerinin değerlendirilmesi
+- Paydaş geri bildirimleri
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:21:33.257009""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- Metodoloji revizyonu
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Rapor düzeltmeleri
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T14:19:34.863629""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- Metodoloji revizyonu
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Rapor düzeltmeleri
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T14:19:34.863629""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- İlk veri toplama süreci
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:17:40.773450""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- İlk veri toplama süreci
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:17:40.773450""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- İlk veri toplama süreci
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:17:40.773450""}",0,2209-A,proje
+7,2209-A,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- İlk veri toplama süreci
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:17:40.773450""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"TÜBİTAK 2209-A fonu için ""Tarım ürünlerinin yaprak görüntülerinden hastalıkları tespit eden bir mobil uygulama geliştirmek. Çiftçiler, cep telefonlarıyla fotoğraf çekerek anında teşhis alabilecek.  🛠️ Yöntem: Bitki yapraklarına ait açık veri setleriyle model eğitimi (CNN tabanlı model)  TensorFlow Lite ile mobil uyarlama  Uygulama arayüzünün Android Studio ile geliştirilmesi  📌 Çıktı: Android tabanlı tanı uygulaması"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8122230768203735, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T13:34:10.773681"", ""existing_plan_id"": null}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"TÜBİTAK 2209-A fonu için ""Tarım ürünlerinin yaprak görüntülerinden hastalıkları tespit eden bir mobil uygulama geliştirmek. Çiftçiler, cep telefonlarıyla fotoğraf çekerek anında teşhis alabilecek.  🛠️ Yöntem: Bitki yapraklarına ait açık veri setleriyle model eğitimi (CNN tabanlı model)  TensorFlow Lite ile mobil uyarlama  Uygulama arayüzünün Android Studio ile geliştirilmesi  📌 Çıktı: Android tabanlı tanı uygulaması"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8122230768203735, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T13:34:10.773681"", ""existing_plan_id"": null}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"TÜBİTAK 2209-A fonu için ""Tarım ürünlerinin yaprak görüntülerinden hastalıkları tespit eden bir mobil uygulama geliştirmek. Çiftçiler, cep telefonlarıyla fotoğraf çekerek anında teşhis alabilecek.  🛠️ Yöntem: Bitki yapraklarına ait açık veri setleriyle model eğitimi (CNN tabanlı model)  TensorFlow Lite ile mobil uyarlama  Uygulama arayüzünün Android Studio ile geliştirilmesi  📌 Çıktı: Android tabanlı tanı uygulaması"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8122230768203735, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T13:34:10.773681"", ""existing_plan_id"": null}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"TÜBİTAK 2209-A fonu için ""Tarım ürünlerinin yaprak görüntülerinden hastalıkları tespit eden bir mobil uygulama geliştirmek. Çiftçiler, cep telefonlarıyla fotoğraf çekerek anında teşhis alabilecek.  🛠️ Yöntem: Bitki yapraklarına ait açık veri setleriyle model eğitimi (CNN tabanlı model)  TensorFlow Lite ile mobil uyarlama  Uygulama arayüzünün Android Studio ile geliştirilmesi  📌 Çıktı: Android tabanlı tanı uygulaması"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8122230768203735, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T13:34:10.773681"", ""existing_plan_id"": null}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- Metodoloji revizyonu
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Rapor düzeltmeleri
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T14:19:34.863629""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- Metodoloji revizyonu
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Rapor düzeltmeleri
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T14:19:34.863629""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İkinci dönem planının güncellenmesi
+- İlk dönem verilerinin değerlendirilmesi
+- Paydaş geri bildirimleri
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:21:33.257009""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İkinci dönem planının güncellenmesi
+- İlk dönem verilerinin değerlendirilmesi
+- Paydaş geri bildirimleri
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:21:33.257009""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İkinci dönem planının güncellenmesi
+- İlk dönem verilerinin değerlendirilmesi
+- Paydaş geri bildirimleri
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:21:33.257009""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İkinci dönem planının güncellenmesi
+- İlk dönem verilerinin değerlendirilmesi
+- Paydaş geri bildirimleri
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:21:33.257009""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- Metodoloji revizyonu
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Rapor düzeltmeleri
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T14:19:34.863629""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- Metodoloji revizyonu
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Rapor düzeltmeleri
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T14:19:34.863629""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- İlk veri toplama süreci
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:17:40.773450""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- İlk veri toplama süreci
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:17:40.773450""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- İlk veri toplama süreci
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:17:40.773450""}",0,2209-A,proje
+9,otizimli çocuklarda erken teşhis,True,gemini,"Profesyonel Proje Planı - TÜBİTAK 2209-A Proje Programı (12 ay)
+Aşağıda, 12 ay sürecek bir proje planı yer almaktadır.
+
+TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- İlk veri toplama süreci
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Ara bulgular raporu
+- İkinci veri toplama süreci
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Çıktıların hazırlanması
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+
+[TÜBİTAK LSTM AI tarafından oluşturuldu]",0,"{""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""plan_generated"": true, ""timestamp"": ""2025-05-29T15:17:40.773450""}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+- Gerekli izinlerin alınması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9846604466438293, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:08:27.634838"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+- Gerekli izinlerin alınması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9846604466438293, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:08:27.634838"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+- Gerekli izinlerin alınması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9846604466438293, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:08:27.634838"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+- Gerekli izinlerin alınması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9846604466438293, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:08:27.634838"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-26T20:58:25.796088"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-26T20:58:25.796088"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A fonu için ""ilk okul çocuk için eğitici veriler"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9845053553581238, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:33:23.383221"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A fonu için ""ilk okul çocuk için eğitici veriler"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9845053553581238, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:33:23.383221"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A fonu için ""ilk okul çocuk için eğitici veriler"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9845053553581238, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:33:23.383221"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A fonu için ""ilk okul çocuk için eğitici veriler"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9845053553581238, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:33:23.383221"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-26T20:58:25.796088"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-26T20:58:25.796088"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Proje ekibinin oluşturulması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Detaylı analizler
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:19:10.498990"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Proje ekibinin oluşturulması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Detaylı analizler
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:19:10.498990"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Proje ekibinin oluşturulması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Detaylı analizler
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:19:10.498990"", ""existing_plan_id"": null}",0,2209-A,proje
+3,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Proje ekibinin oluşturulması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Detaylı analizler
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:19:10.498990"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+- Gerekli izinlerin alınması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9846604466438293, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:08:27.634838"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+- Gerekli izinlerin alınması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9846604466438293, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:08:27.634838"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+- Gerekli izinlerin alınması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9846604466438293, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:08:27.634838"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Proje ekibinin oluşturulması
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Metodoloji geliştirme
+- Kapsamlı literatür taraması
+- Gerekli izinlerin alınması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Pilot uygulamalar
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Final raporu yazımı
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9846604466438293, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:08:27.634838"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-26T20:58:25.796088"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-26T20:58:25.796088"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A fonu için ""ilk okul çocuk için eğitici veriler"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9845053553581238, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:33:23.383221"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A fonu için ""ilk okul çocuk için eğitici veriler"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9845053553581238, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:33:23.383221"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A fonu için ""ilk okul çocuk için eğitici veriler"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9845053553581238, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:33:23.383221"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A fonu için ""ilk okul çocuk için eğitici veriler"" konusunda 12 aylık bir proje planı oluştur.
+Yanıtını şu formatta ver:
+
+Ay 1: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+Ay 2: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+... diğer aylar ...
+
+Ay 12: [Bu ay için kısa başlık]
+- [Birinci görev]
+- [İkinci görev]
+- [Üçüncü görev]
+
+NOT: Cevabını kesinlikle yukarıdaki formatta ver, açıklama veya giriş paragrafı ekleme. Doğrudan ""Ay 1:"" ile başla. için kısa vadeli bir plan öneriyorum...",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9845053553581238, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:33:23.383221"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-26T20:58:25.796088"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ön analizler
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+
+Ay 10: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-26T20:58:25.796088"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Proje ekibinin oluşturulması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Detaylı analizler
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:19:10.498990"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Proje ekibinin oluşturulması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Detaylı analizler
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:19:10.498990"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Proje ekibinin oluşturulması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Detaylı analizler
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:19:10.498990"", ""existing_plan_id"": null}",0,2209-A,proje
+5,2236-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Risk analizi
+- Detaylı iş planı hazırlama
+- Proje ekibinin oluşturulması
+
+Ay 2: Hazırlık Aşaması
+- Veri yönetim planının oluşturulması
+- Gerekli izinlerin alınması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Metodoloji revizyonu
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- Detaylı analizler
+- Uzman görüşlerinin alınması
+- Ara bulgular raporu
+
+Ay 7: Analiz Aşaması
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+- Tüm verilerin birleştirilmesi
+
+Ay 8: Raporlama Aşaması
+- Sonuçların dokümantasyonu
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+- Proje çıktılarının paylaşılması
+
+Ay 11: Yaygınlaştırma Aşaması
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- İleri araştırmalar için öneriler
+- Konferans/seminer sunumları
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.8498183488845825, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-29T10:19:10.498990"", ""existing_plan_id"": null}",0,2209-A,proje
+1,2209-A,True,gemini,Özel plan şablonu: 2205 – Lisans Burs Programı fonu için özel olarak hazırlanmış plan: İhtiyaçlarınıza özel hazırlanmış adım adım rehber,24,"{""prediction"": {""class"": 4, ""confidence"": 0.9746522903442383, ""features"": {""ay_suresi"": 24, ""fon_kodu"": ""1001""}}, ""fon_info"": {""fon_kodu"": ""2205"", ""fon_turu"": ""2205 \u2013 Lisans Burs Program\u0131"", ""ay_suresi"": 24}, ""timestamp"": ""2025-05-18T23:03:30.575689""}",0,2205,2205 – Lisans Burs Programı
+1,2209-A,True,gemini,Özel plan şablonu: 2205 – Lisans Burs Programı fonu için özel olarak hazırlanmış plan: İhtiyaçlarınıza özel hazırlanmış adım adım rehber,24,"{""prediction"": {""class"": 4, ""confidence"": 0.9746522903442383, ""features"": {""ay_suresi"": 24, ""fon_kodu"": ""1001""}}, ""fon_info"": {""fon_kodu"": ""2205"", ""fon_turu"": ""2205 \u2013 Lisans Burs Program\u0131"", ""ay_suresi"": 24}, ""timestamp"": ""2025-05-18T23:03:30.575689""}",0,2205,2205 – Lisans Burs Programı
+1,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Risk analizi
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9843806028366089, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:03:55.848100"", ""existing_plan_id"": null}",0,2209-A,proje
+1,2209-A,True,gemini,"TÜBİTAK 2209-A Proje Programı için 12 Aylık Proje Planı
+
+Bu plan, 12 aylık süreyle yürütülecek TÜBİTAK 2209-A proje projesi için hazırlanmıştır.
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Detaylı iş planı hazırlama
+- Kaynak planlaması
+- Risk analizi
+
+Ay 2: Hazırlık Aşaması
+- Kapsamlı literatür taraması
+- Metodoloji geliştirme
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+
+Ay 3: Geliştirme Aşaması
+- Araştırma araçlarının geliştirilmesi
+- Pilot uygulamalar
+- Metodoloji revizyonu
+- Veri toplama protokollerinin oluşturulması
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- İlk veri toplama süreci
+- Ön analizler
+- Metodoloji revizyonu
+- Ara rapor hazırlığı
+
+Ay 5: Ara Değerlendirme
+- İlk dönem verilerinin değerlendirilmesi
+- Metodoloji revizyonu
+- Paydaş geri bildirimleri
+- İkinci dönem planının güncellenmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Detaylı analizler
+- Ara bulgular raporu
+- Uzman görüşlerinin alınması
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Kapsamlı analiz
+- Bulguların yorumlanması
+- Çıktıların hazırlanması
+
+Ay 8: Raporlama Aşaması
+- Final raporu yazımı
+- Bulguların gözden geçirilmesi
+- Rapor düzeltmeleri
+- Sonuçların dokümantasyonu
+
+Ay 9-12: Yaygınlaştırma Aşaması
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+
+Aylık İş Planı:
+
+Ay 1: Planlama Aşaması
+- Proje ekibinin oluşturulması
+- Risk analizi
+- Kaynak planlaması
+
+Ay 2: Hazırlık Aşaması
+- Gerekli izinlerin alınması
+- Veri yönetim planının oluşturulması
+- Kapsamlı literatür taraması
+
+Ay 3: Geliştirme Aşaması
+- Pilot uygulamalar
+- Araştırma araçlarının geliştirilmesi
+- Metodoloji revizyonu
+
+Ay 4: Uygulama Aşaması (1. Dönem)
+- Ara rapor hazırlığı
+- İlk veri toplama süreci
+- Ön analizler
+
+Ay 5: Ara Değerlendirme
+- Paydaş geri bildirimleri
+- Metodoloji revizyonu
+- İlk dönem verilerinin değerlendirilmesi
+
+Ay 6: Uygulama Aşaması (2. Dönem)
+- İkinci veri toplama süreci
+- Uzman görüşlerinin alınması
+- Detaylı analizler
+
+Ay 7: Analiz Aşaması
+- Tüm verilerin birleştirilmesi
+- Bulguların yorumlanması
+- Kapsamlı analiz
+
+Ay 8: Raporlama Aşaması
+- Rapor düzeltmeleri
+- Final raporu yazımı
+- Sonuçların dokümantasyonu
+
+Ay 9: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Konferans/seminer sunumları
+
+Ay 10: Yaygınlaştırma Aşaması
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+- Yayın hazırlıkları
+
+Ay 11: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- İleri araştırmalar için öneriler
+- Proje çıktılarının paylaşılması
+
+Ay 12: Yaygınlaştırma Aşaması
+- Yayın hazırlıkları
+- Konferans/seminer sunumları
+- İleri araştırmalar için öneriler
+",0,"{""prediction"": {""class"": 3, ""confidence"": 0.9843806028366089, ""features"": {""ay_suresi"": 12, ""fon_kodu"": ""2209-A""}}, ""fon_info"": {""fon_kodu"": ""2209-A"", ""fon_turu"": ""proje"", ""ay_suresi"": 12}, ""timestamp"": ""2025-05-19T22:03:55.848100"", ""existing_plan_id"": null}",0,2209-A,proje

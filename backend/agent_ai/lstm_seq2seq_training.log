@@ -1,0 +1,221 @@
+2025-06-14 20:46:00,036 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Eğitim Süreci Başlatılıyor...
+2025-06-14 20:46:00,037 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Trainer başlatıldı
+2025-06-14 20:46:00,037 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlanıyor...
+2025-06-14 20:46:00,037 - LSTM_Seq2Seq_Training - INFO - Veritabanından plan verilerini çekiyorum...
+2025-06-14 20:46:00,074 - LSTM_Seq2Seq_Training - INFO - Veritabanı bağlantısı başarılı
+2025-06-14 20:46:00,084 - LSTM_Seq2Seq_Training - INFO - 13 adet plan verisi bulundu
+2025-06-14 20:46:00,092 - LSTM_Seq2Seq_Training - INFO - Veriler CSV olarak kaydedildi: agent_ai/lstm_seq2seq_data\all_plans.csv
+2025-06-14 20:46:00,096 - LSTM_Seq2Seq_Training - WARNING - Yetersiz veri: Sadece 13 plan bulundu. Manuel veri eklenecek.
+2025-06-14 20:46:00,096 - LSTM_Seq2Seq_Training - INFO - Manuel seq2seq eğitim verileri oluşturuluyor...
+2025-06-14 20:46:00,107 - LSTM_Seq2Seq_Training - INFO - Manuel seq2seq veri oluşturuldu: 375 örnek
+2025-06-14 20:46:00,127 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlandı: {'train': 310, 'test': 78, 'total': 388}
+2025-06-14 20:46:00,127 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq model eğitimi başlıyor...
+2025-06-14 20:46:00,172 - LSTM_Seq2Seq_Training - INFO - Girdi tokenizer kaydedildi: models\tokenizer.pickle
+2025-06-14 20:46:00,177 - LSTM_Seq2Seq_Training - INFO - Çıktı tokenizer kaydedildi: models\output_tokenizer.pickle
+2025-06-14 20:46:01,326 - LSTM_Seq2Seq_Training - INFO - Eğitim başlıyor: 50 epoch, 16 batch size
+2025-06-14 20:47:26,990 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-14 20:48:55,479 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-14 20:50:18,679 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-14 20:51:36,874 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-14 20:52:53,346 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-14 21:23:25,673 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Eğitim Süreci Başlatılıyor...
+2025-06-14 21:23:25,673 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Trainer başlatıldı
+2025-06-14 21:23:25,673 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlanıyor...
+2025-06-14 21:23:25,673 - LSTM_Seq2Seq_Training - INFO - Veritabanından plan verilerini çekiyorum...
+2025-06-14 21:23:25,799 - LSTM_Seq2Seq_Training - INFO - Veritabanı bağlantısı başarılı
+2025-06-14 21:23:25,816 - LSTM_Seq2Seq_Training - INFO - 23 adet plan verisi bulundu
+2025-06-14 21:23:25,821 - LSTM_Seq2Seq_Training - INFO - Veriler CSV olarak kaydedildi: agent_ai/lstm_seq2seq_data\all_plans.csv
+2025-06-14 21:23:25,823 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlandı: {'train': 18, 'test': 5, 'total': 23}
+2025-06-14 21:23:25,823 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq model eğitimi başlıyor...
+2025-06-14 21:23:25,829 - LSTM_Seq2Seq_Training - INFO - Girdi tokenizer kaydedildi: models\tokenizer.pickle
+2025-06-14 21:23:25,833 - LSTM_Seq2Seq_Training - INFO - Çıktı tokenizer kaydedildi: models\output_tokenizer.pickle
+2025-06-14 21:23:26,234 - LSTM_Seq2Seq_Training - INFO - Eğitim başlıyor: 20 epoch, 16 batch size
+2025-06-14 21:23:39,710 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-14 21:24:37,329 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-14 21:24:37,601 - LSTM_Seq2Seq_Training - INFO - Final model kaydedildi: models\lstm_seq2seq_model.h5
+2025-06-14 21:24:37,609 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-14 21:24:37,645 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-14 21:24:37,710 - LSTM_Seq2Seq_Training - INFO - Test örnekleri ile model değerlendiriliyor...
+2025-06-14 21:24:38,149 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: TÜBİTAK 2209-A için 12 aylık yapay zeka projesi planı oluştur
+2025-06-14 21:24:38,149 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+...
+2025-06-14 21:24:38,308 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 6 aylık akıllı tarım projesi için plan yazar mısın?
+2025-06-14 21:24:38,308 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+...
+2025-06-14 21:24:38,469 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 3 aylık TÜBİTAK 1001 yenilenebilir enerji projesi planı
+2025-06-14 21:24:38,469 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+...
+2025-06-14 21:24:38,990 - LSTM_Seq2Seq_Training - INFO - Validation doğruluğu: 0.5456 (54.56%)
+2025-06-14 21:24:39,000 - LSTM_Seq2Seq_Training - INFO - Eğitim tamamlandı! Model doğruluğu: 54.56%
+2025-06-14 21:24:39,000 - LSTM_Seq2Seq_Training - INFO - Model ve tokenizer'lar şurada: models/
+2025-06-15 15:32:15,408 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Eğitim Süreci Başlatılıyor...
+2025-06-15 15:32:15,408 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Trainer başlatıldı
+2025-06-15 15:32:15,408 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlanıyor...
+2025-06-15 15:32:15,408 - LSTM_Seq2Seq_Training - INFO - Veritabanından plan verilerini çekiyorum...
+2025-06-15 15:32:15,521 - LSTM_Seq2Seq_Training - INFO - Veritabanı bağlantısı başarılı
+2025-06-15 15:32:15,549 - LSTM_Seq2Seq_Training - INFO - 86 adet plan verisi bulundu
+2025-06-15 15:32:15,559 - LSTM_Seq2Seq_Training - INFO - Veriler CSV olarak kaydedildi: agent_ai/lstm_seq2seq_data\all_plans.csv
+2025-06-15 15:32:15,577 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlandı: {'train': 68, 'test': 18, 'total': 86}
+2025-06-15 15:32:15,577 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq model eğitimi başlıyor...
+2025-06-15 15:32:15,599 - LSTM_Seq2Seq_Training - INFO - Girdi tokenizer kaydedildi: models\tokenizer.pickle
+2025-06-15 15:32:15,601 - LSTM_Seq2Seq_Training - INFO - Çıktı tokenizer kaydedildi: models\output_tokenizer.pickle
+2025-06-15 15:32:16,127 - LSTM_Seq2Seq_Training - INFO - Eğitim başlıyor: 20 epoch, 16 batch size
+2025-06-15 15:32:45,441 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:35:13,091 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:35:37,241 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:35:54,992 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:36:17,039 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:36:35,024 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:36:57,969 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:37:19,251 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:37:39,309 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:38:45,125 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:38:45,409 - LSTM_Seq2Seq_Training - INFO - Final model kaydedildi: models\lstm_seq2seq_model.h5
+2025-06-15 15:38:45,417 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:38:45,479 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 15:38:45,569 - LSTM_Seq2Seq_Training - INFO - Test örnekleri ile model değerlendiriliyor...
+2025-06-15 15:38:53,389 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: TÜBİTAK 2209-A için 12 aylık yapay zeka projesi planı oluştur
+2025-06-15 15:38:53,389 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+1 1 1 proje proje proje proje proje proje ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ...
+2025-06-15 15:38:59,672 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 6 aylık akıllı tarım projesi için plan yazar mısın?
+2025-06-15 15:38:59,672 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+1 1 1 proje proje proje proje proje proje ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ...
+2025-06-15 15:39:05,919 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 3 aylık TÜBİTAK 1001 yenilenebilir enerji projesi planı
+2025-06-15 15:39:05,919 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+1 1 1 proje proje proje proje proje proje ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ve ...
+2025-06-15 15:39:07,764 - LSTM_Seq2Seq_Training - INFO - Validation doğruluğu: 0.5592 (55.92%)
+2025-06-15 15:39:07,770 - LSTM_Seq2Seq_Training - INFO - Eğitim tamamlandı! Model doğruluğu: 55.92%
+2025-06-15 15:39:07,770 - LSTM_Seq2Seq_Training - INFO - Model ve tokenizer'lar şurada: models/
+2025-06-15 22:02:03,656 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Eğitim Süreci Başlatılıyor...
+2025-06-15 22:02:03,656 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Trainer başlatıldı
+2025-06-15 22:02:03,656 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlanıyor...
+2025-06-15 22:02:03,656 - LSTM_Seq2Seq_Training - INFO - Veritabanından plan verilerini çekiyorum...
+2025-06-15 22:02:03,968 - LSTM_Seq2Seq_Training - INFO - Veritabanı bağlantısı başarılı
+2025-06-15 22:02:04,076 - LSTM_Seq2Seq_Training - INFO - 86 adet plan verisi bulundu
+2025-06-15 22:02:04,093 - LSTM_Seq2Seq_Training - INFO - Veriler CSV olarak kaydedildi: agent_ai/lstm_seq2seq_data\all_plans.csv
+2025-06-15 22:02:04,140 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlandı: {'train': 68, 'test': 18, 'total': 86}
+2025-06-15 22:02:04,142 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq model eğitimi başlıyor...
+2025-06-15 22:02:04,190 - LSTM_Seq2Seq_Training - INFO - Girdi tokenizer kaydedildi: models\tokenizer.pickle
+2025-06-15 22:02:04,195 - LSTM_Seq2Seq_Training - INFO - Çıktı tokenizer kaydedildi: models\output_tokenizer.pickle
+2025-06-15 22:02:05,021 - LSTM_Seq2Seq_Training - INFO - Eğitim başlıyor: 20 epoch, 16 batch size
+2025-06-15 22:02:50,126 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 22:06:06,026 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 22:06:06,248 - LSTM_Seq2Seq_Training - INFO - Final model kaydedildi: models\lstm_seq2seq_model.h5
+2025-06-15 22:06:06,255 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 22:06:06,288 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-15 22:06:06,348 - LSTM_Seq2Seq_Training - INFO - Test örnekleri ile model değerlendiriliyor...
+2025-06-15 22:06:06,718 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: TÜBİTAK 2209-A için 12 aylık yapay zeka projesi planı oluştur
+2025-06-15 22:06:06,718 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+1 ...
+2025-06-15 22:06:06,888 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 6 aylık akıllı tarım projesi için plan yazar mısın?
+2025-06-15 22:06:06,888 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+1 ...
+2025-06-15 22:06:07,049 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 3 aylık TÜBİTAK 1001 yenilenebilir enerji projesi planı
+2025-06-15 22:06:07,049 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+1 ...
+2025-06-15 22:06:08,192 - LSTM_Seq2Seq_Training - INFO - Validation doğruluğu: 0.5387 (53.87%)
+2025-06-15 22:06:08,197 - LSTM_Seq2Seq_Training - INFO - Eğitim tamamlandı! Model doğruluğu: 53.87%
+2025-06-15 22:06:08,197 - LSTM_Seq2Seq_Training - INFO - Model ve tokenizer'lar şurada: models/
+2025-06-17 16:40:03,270 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Eğitim Süreci Başlatılıyor...
+2025-06-17 16:40:03,270 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Trainer başlatıldı
+2025-06-17 16:40:03,270 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlanıyor...
+2025-06-17 16:40:03,270 - LSTM_Seq2Seq_Training - INFO - Veritabanından plan verilerini çekiyorum...
+2025-06-17 16:40:03,336 - LSTM_Seq2Seq_Training - INFO - Veritabanı bağlantısı başarılı
+2025-06-17 16:40:03,408 - LSTM_Seq2Seq_Training - INFO - 1088 adet plan verisi bulundu
+2025-06-17 16:40:03,424 - LSTM_Seq2Seq_Training - INFO - Veriler CSV olarak kaydedildi: agent_ai/lstm_seq2seq_data\all_plans.csv
+2025-06-17 16:40:03,483 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlandı: {'train': 870, 'test': 218, 'total': 1088}
+2025-06-17 16:40:03,483 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq model eğitimi başlıyor...
+2025-06-17 16:40:03,544 - LSTM_Seq2Seq_Training - INFO - Girdi tokenizer kaydedildi: models\tokenizer.pickle
+2025-06-17 16:40:03,544 - LSTM_Seq2Seq_Training - INFO - Çıktı tokenizer kaydedildi: models\output_tokenizer.pickle
+2025-06-17 16:40:04,279 - LSTM_Seq2Seq_Training - INFO - Eğitim başlıyor: 20 epoch, 16 batch size
+2025-06-17 16:42:37,203 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 16:45:15,757 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 16:47:58,670 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 16:53:28,940 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 16:55:56,867 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 16:59:16,584 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:03:10,076 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:05:13,596 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:07:36,137 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:09:48,712 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:12:44,219 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:14:52,269 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:17:03,424 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:19:20,259 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:21:36,022 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:23:52,541 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:26:08,604 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:28:24,204 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:30:39,984 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:32:56,438 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:32:56,777 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:32:57,014 - LSTM_Seq2Seq_Training - INFO - Final model kaydedildi: models\lstm_seq2seq_model.h5
+2025-06-17 17:32:57,020 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:32:57,063 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-17 17:32:58,847 - LSTM_Seq2Seq_Training - INFO - Test örnekleri ile model değerlendiriliyor...
+2025-06-17 17:33:03,025 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: TÜBİTAK 2209-A için 12 aylık yapay zeka projesi planı oluştur
+2025-06-17 17:33:03,025 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+response systems is a horizon europe candidate project focused on tarım this proposal includes a detailed technical work plan covering methodology milestones and deliverables a risk management matrix identifying key risks and mitigation strategies a consortium structure with roles and responsibiliti...
+2025-06-17 17:33:06,868 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 6 aylık akıllı tarım projesi için plan yazar mısın?
+2025-06-17 17:33:06,868 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+response systems is a horizon europe candidate project focused on tarım this proposal includes a detailed technical work plan covering methodology milestones and deliverables a risk management matrix identifying key risks and mitigation strategies a consortium structure with roles and responsibiliti...
+2025-06-17 17:33:10,706 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 3 aylık TÜBİTAK 1001 yenilenebilir enerji projesi planı
+2025-06-17 17:33:10,706 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+response systems is a horizon europe candidate project focused on tarım this proposal includes a detailed technical work plan covering methodology milestones and deliverables a risk management matrix identifying key risks and mitigation strategies a consortium structure with roles and responsibiliti...
+2025-06-17 17:33:23,607 - LSTM_Seq2Seq_Training - INFO - Validation doğruluğu: 0.9773 (97.73%)
+2025-06-17 17:33:23,617 - LSTM_Seq2Seq_Training - INFO - Eğitim tamamlandı! Model doğruluğu: 97.73%
+2025-06-17 17:33:23,617 - LSTM_Seq2Seq_Training - INFO - Model ve tokenizer'lar şurada: models/
+2025-06-18 12:02:44,301 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Eğitim Süreci Başlatılıyor...
+2025-06-18 12:02:44,301 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq Trainer başlatıldı
+2025-06-18 12:02:44,301 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlanıyor...
+2025-06-18 12:02:44,302 - LSTM_Seq2Seq_Training - INFO - Veritabanından plan verilerini çekiyorum...
+2025-06-18 12:02:44,384 - LSTM_Seq2Seq_Training - INFO - Veritabanı bağlantısı başarılı
+2025-06-18 12:02:44,463 - LSTM_Seq2Seq_Training - INFO - 1087 adet plan verisi bulundu
+2025-06-18 12:02:44,483 - LSTM_Seq2Seq_Training - INFO - Veriler CSV olarak kaydedildi: agent_ai/lstm_seq2seq_data\all_plans.csv
+2025-06-18 12:02:44,543 - LSTM_Seq2Seq_Training - INFO - Eğitim verileri hazırlandı: {'train': 869, 'test': 218, 'total': 1087}
+2025-06-18 12:02:44,543 - LSTM_Seq2Seq_Training - INFO - LSTM Seq2Seq model eğitimi başlıyor...
+2025-06-18 12:02:44,624 - LSTM_Seq2Seq_Training - INFO - Girdi tokenizer kaydedildi: models\tokenizer.pickle
+2025-06-18 12:02:44,624 - LSTM_Seq2Seq_Training - INFO - Çıktı tokenizer kaydedildi: models\output_tokenizer.pickle
+2025-06-18 12:02:45,282 - LSTM_Seq2Seq_Training - INFO - Eğitim başlıyor: 10 epoch, 16 batch size
+2025-06-18 12:04:48,482 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:07:31,834 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:10:50,421 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:14:24,687 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:18:07,712 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:22:03,849 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:26:05,731 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:30:34,530 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:34:34,012 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:38:36,647 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:38:38,754 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:38:40,355 - LSTM_Seq2Seq_Training - INFO - Final model kaydedildi: models\lstm_seq2seq_model.h5
+2025-06-18 12:38:40,398 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:38:40,643 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-06-18 12:38:40,839 - LSTM_Seq2Seq_Training - INFO - Test örnekleri ile model değerlendiriliyor...
+2025-06-18 12:38:50,410 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: TÜBİTAK 2209-A için 12 aylık yapay zeka projesi planı oluştur
+2025-06-18 12:38:50,410 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+fon001 ar ge programı için 6 aylık proje planı ay 1 hazırlık aşaması görevleri yürütülecek ay 2 hazırlık aşaması görevleri yürütülecek ay 3 geliştirme aşaması görevleri yürütülecek ay 4 uygulama 1 dönem aşaması görevleri yürütülecek ay 5 ara değerlendirme aşaması görevleri yürütülecek ay 5 ara değer...
+2025-06-18 12:38:57,196 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 6 aylık akıllı tarım projesi için plan yazar mısın?
+2025-06-18 12:38:57,196 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+fon001 ar ge programı için 6 aylık proje planı ay 1 hazırlık aşaması görevleri yürütülecek ay 2 hazırlık aşaması görevleri yürütülecek ay 3 geliştirme aşaması görevleri yürütülecek ay 4 uygulama 1 dönem aşaması görevleri yürütülecek ay 5 ara değerlendirme aşaması görevleri yürütülecek ay 5 ara değer...
+2025-06-18 12:39:00,583 - LSTM_Seq2Seq_Training - INFO - 
+Sorgu: 3 aylık TÜBİTAK 1001 yenilenebilir enerji projesi planı
+2025-06-18 12:39:00,583 - LSTM_Seq2Seq_Training - INFO - Üretilen plan:
+fon001 ar ge programı için 3 aylık proje planı ay 1 hazırlık aşaması görevleri yürütülecek ay 2 hazırlık aşaması görevleri yürütülecek ay 3 uygulama aşaması görevleri yürütülecek ay 4 uygulama 1 dönem aşaması görevleri yürütülecek ay 6 hazırlık aşaması görevleri yürütülecek ay 6 hazırlık aşaması gör...
+2025-06-18 12:39:24,268 - LSTM_Seq2Seq_Training - INFO - Validation doğruluğu: 0.9595 (95.95%)
+2025-06-18 12:39:24,281 - LSTM_Seq2Seq_Training - INFO - Eğitim tamamlandı! Model doğruluğu: 95.95%
+2025-06-18 12:39:24,281 - LSTM_Seq2Seq_Training - INFO - Model ve tokenizer'lar şurada: models/

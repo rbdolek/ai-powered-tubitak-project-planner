@@ -1,0 +1,140 @@
+{
+  "short": {
+    "structure": [
+      "Hazırlık Aşaması",
+      "Uygulama Aşaması",
+      "Sonuçlandırma Aşaması"
+    ],
+    "tasks": {
+      "Hazırlık Aşaması": [
+        "Literatür taraması",
+        "Metodoloji geliştirme",
+        "Veri kaynaklarının belirlenmesi",
+        "Etik kurul izinlerinin alınması"
+      ],
+      "Uygulama Aşaması": [
+        "Veri toplama",
+        "Verilerin analizi",
+        "Ara rapor hazırlama",
+        "Metodoloji revizyonu"
+      ],
+      "Sonuçlandırma Aşaması": [
+        "Sonuçların değerlendirilmesi",
+        "Final raporu yazımı",
+        "Sunum hazırlığı",
+        "Yaygınlaştırma faaliyetleri"
+      ]
+    }
+  },
+  "medium": {
+    "structure": [
+      "Hazırlık Aşaması",
+      "Geliştirme Aşaması",
+      "Uygulama Aşaması",
+      "Değerlendirme Aşaması",
+      "Sonuçlandırma Aşaması"
+    ],
+    "tasks": {
+      "Hazırlık Aşaması": [
+        "Detaylı literatür taraması",
+        "Proje ekibinin oluşturulması",
+        "Metodoloji geliştirme",
+        "İş paketlerinin planlanması",
+        "Gerekli izinlerin alınması"
+      ],
+      "Geliştirme Aşaması": [
+        "Araştırma araçlarının geliştirilmesi",
+        "Pilot uygulama",
+        "Metodoloji revizyonu",
+        "Veri toplama protokollerinin oluşturulması"
+      ],
+      "Uygulama Aşaması": [
+        "Veri toplama",
+        "Veri analizi",
+        "Ara raporlama",
+        "Paydaş toplantıları"
+      ],
+      "Değerlendirme Aşaması": [
+        "Bulguların değerlendirilmesi",
+        "Karşılaştırmalı analizler",
+        "Uzman görüşlerinin alınması",
+        "Çıktıların gözden geçirilmesi"
+      ],
+      "Sonuçlandırma Aşaması": [
+        "Final raporu yazımı",
+        "Sonuçların paydaşlarla paylaşılması",
+        "Yaygınlaştırma faaliyetleri",
+        "İleri araştırmalar için öneriler"
+      ]
+    }
+  },
+  "long": {
+    "structure": [
+      "Planlama Aşaması",
+      "Hazırlık Aşaması",
+      "Geliştirme Aşaması",
+      "Uygulama Aşaması (1. Dönem)",
+      "Ara Değerlendirme",
+      "Uygulama Aşaması (2. Dönem)",
+      "Analiz Aşaması",
+      "Raporlama Aşaması",
+      "Yaygınlaştırma Aşaması"
+    ],
+    "tasks": {
+      "Planlama Aşaması": [
+        "Proje ekibinin oluşturulması",
+        "Detaylı iş planı hazırlama",
+        "Kaynak planlaması",
+        "Risk analizi"
+      ],
+      "Hazırlık Aşaması": [
+        "Kapsamlı literatür taraması",
+        "Metodoloji geliştirme",
+        "Gerekli izinlerin alınması",
+        "Veri yönetim planının oluşturulması"
+      ],
+      "Geliştirme Aşaması": [
+        "Araştırma araçlarının geliştirilmesi",
+        "Pilot uygulamalar",
+        "Metodoloji revizyonu",
+        "Veri toplama protokollerinin oluşturulması"
+      ],
+      "Uygulama Aşaması (1. Dönem)": [
+        "İlk veri toplama süreci",
+        "Ön analizler",
+        "Metodoloji revizyonu",
+        "Ara rapor hazırlığı"
+      ],
+      "Ara Değerlendirme": [
+        "İlk dönem verilerinin değerlendirilmesi",
+        "Metodoloji revizyonu",
+        "Paydaş geri bildirimleri",
+        "İkinci dönem planının güncellenmesi"
+      ],
+      "Uygulama Aşaması (2. Dönem)": [
+        "İkinci veri toplama süreci",
+        "Detaylı analizler",
+        "Ara bulgular raporu",
+        "Uzman görüşlerinin alınması"
+      ],
+      "Analiz Aşaması": [
+        "Tüm verilerin birleştirilmesi",
+        "Kapsamlı analiz",
+        "Bulguların yorumlanması",
+        "Çıktıların hazırlanması"
+      ],
+      "Raporlama Aşaması": [
+        "Final raporu yazımı",
+        "Bulguların gözden geçirilmesi",
+        "Rapor düzeltmeleri",
+        "Sonuçların dokümantasyonu"
+      ],
+      "Yaygınlaştırma Aşaması": [
+        "Proje çıktılarının paylaşılması",
+        "Konferans/seminer sunumları",
+        "Yayın hazırlıkları",
+        "İleri araştırmalar için öneriler"
+      ]
+    }
+  }
+}

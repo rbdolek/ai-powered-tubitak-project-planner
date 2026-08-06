@@ -430,7 +430,7 @@ After analyzing the selected TÜBİTAK funding program and project topic, the AI
 Users can export the generated project plan as a Microsoft Word document.
 
 <p align="center">
-  <img src="images/generated-doc.png" width="850">
+  <img src="images/generated-plan.png" width="850">
 </p>
 
 ---
